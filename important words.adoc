@@ -1,3 +1,5 @@
+= 生词
+
 * 大片 blockbuster
 * 外向 extroverted
 * 内向 introverted

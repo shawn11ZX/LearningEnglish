@@ -1,3 +1,4 @@
+= 习惯用语
 
 * do more good that harm: 利大于弊
 * the advantage far more outweighs the harm
@@ -20,3 +21,5 @@
 * miss the boat
 * Once in a blue moon 
 * pull wood over other's eyes
+* the trick of the trade
+* punch line

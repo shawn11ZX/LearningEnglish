@@ -1,3 +1,5 @@
+= 同义词
+
 == popular
 * prevelant
 * liked
