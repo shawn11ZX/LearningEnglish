@@ -151,18 +151,32 @@ ttdd agfh
 .优缺点
 [options="header"]
 |==================
-| 优点 | 缺点
-| advantage | disadvantage
-| merit | demerit
-| strength | weakness
-| prons | cons
-| gain | lost
-| benefit/profit | drawback
-| good thing/part | bad thing/part
-| exciting part | disappointing part
+| 优点 | 缺点 | notes
+| advantage | disadvantage | 
+| merit | demerit | 尤其表示人的优缺点
+| strength | weakness |
+| prons | cons |
+| gain | lost |
+| benefit/profit | drawback |
+| good thing/part | bad thing/part|
+| exciting part | disappointing part |
 |==================
 
 == 比较
 * compared to
 * differentiate from
 * in contract with
+
+== 最近
+* recently
+* currently
+* in these few years
+* in the recent years
+
+
+== 吵架
+* argument
+* fight
+* quarrel
+* debate
+** I had a terrible quarrel with my other brothers.

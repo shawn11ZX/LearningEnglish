@@ -22,7 +22,16 @@ Shawn Zhang <sure.zhang@gmail.com>
 
 * 远超承受能力 far beyond the affordibility of working class family 
 * 工薪阶级 working class family, middle class family
+* 娱乐节目 entertainment tv shows
 
+* 换位思考 transpositional thinking
+
+* 骗局 fraud
+* 公共媒体  public media
+* 误解 misunderstanding
+* 疏远 alianation of relationship
+
+* 经典的 classical (不是typical)
 
 == 动词
 * 坚持不懈 persist
@@ -57,9 +66,11 @@ Shawn Zhang <sure.zhang@gmail.com>
 * crowded 拥挤
 * stuffy 闷热，不通气
 
-=== 形容城市
+=== 形容城市，经济 
 * 辉煌 brilliant
-
+* 繁荣 bloom. The wildspread of the smart phones have led to the bloom of a new emerging industry.
+* 繁荣的 prosperous. It's one of the most prosperous town in the city.
+* 衰退 downturn, ression, downturn in the economy
 
 == 副词
 * 毫不 not a spark of 
