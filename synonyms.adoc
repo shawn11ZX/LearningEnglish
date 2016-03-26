@@ -100,3 +100,17 @@ She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person, 
 * end up with
 * finally
 * at last
+
+== 优缺点
+.优缺点
+[options="header"]
+|==================
+| 优点 | 缺点
+| advantage | disadvantage
+| merit | demerit
+| strength | weakness
+| prons | cons
+| gain | lost
+| benefit/profit | drawback
+|==================
+
