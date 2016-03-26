@@ -27,6 +27,10 @@ Shawn Zhang <sure.zhang@gmail.com>
 * likewise
 * equally
 
+.记忆方法
+[NOTE]
+SAAAL
+
 === 表示另外
 [NOTE]
 I'm capable of doing the work, and a lot more besides

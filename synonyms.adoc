@@ -2,59 +2,93 @@
 Shawn Zhang <sure.zhang@gmail.com>
 
 == popular
-* prevelant
-* liked
+
 * widespread
 * well known
-* common
 * widely liked
+
+* common
+* *appreciated*
+* prevalent
+
 * conventional
 * customary
-* *appreciated*
+
+.记忆方法
+[NOTE]
+WWW.CAP.CC，有点像一个网址，internet现在很popular
+
 
 == famous
-* distinguished
+
+* prominant
 * renowned 有声望的
 * respectable
+* celebrated
+* distinguished
 
+.记忆方法
+[NOTE]
+prrcdf，全是辅音…… famous的f
 
 == familiar
-acquainted with
+* acquainted with
 
 == sport
-* physical exercise
+* practise
+* (physical) recreation
+* (physical) exercise
+* (physical) activity
 * game(s)
-* physical recreation
-* physical activity
-* pastime
+
+
+.记忆方法
+[NOTE]
+PREAG，preaging表示老化，是sport会预防的
 
 == 娱乐方式
-* pastime
-* amusement
 * recreation
-[NOTE]
-Saturday afternoon is for recreation and outings
-[NOTE]
-People had very few amusements to choose from. There was no radio, or television.
-[NOTE]
-His favourite pastime is golf
+* amusement
+* pastime
 
-== 帮助(动词)
-* give sb a leg up
-* help
-* lend a hand to
-* assist
-* give assistance to
 
-== 帮助（名词)
-* aid
-* assistance
-* a helping hand
-* support
-* advice
-* guidance
+.记忆方法
+[NOTE]
+RAP，说唱
+
+.例句
+[NOTE]
+====
+* Saturday afternoon is for recreation and outings
+* People had very few amusements to choose from. There was no radio, or television.
+* His favourite pastime is golf
+====
+
+== help
+
+.help
+[options="header"]
+|=========
+| 动词 | 名词
+| aid | aidding
+| assiste | assistance
+| give sb a leg up | 
+| lend a hand to | 
+| support | support
+|=========
+
+
+[NOTE]
+记忆方法：hand,leg, ASA(P), 有点像手脚快来
+
+== 方法
 * solution
+* method
+* way
 
+== 建议
+* advice
+* suggest
 
 == happy
 * delighted
@@ -62,15 +96,22 @@ His favourite pastime is golf
 * pleased
 * satisfied
 * thrilled
+* joyful
+
 [NOTE]
 She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person,    I am joyful,    We are overjoyed with the results
 
 == sad
+* miserable
+* unfortunate
 * depressed
 * gloomy
-* miserable
 * heart broken
-* unfortunate
+* unhappy
+
+.记忆方法
+[NOTE]
+Mudgh，有点掉土（mud）里了
 
 == disappointed
 * frustrated
@@ -84,6 +125,10 @@ She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person, 
 * frightful
 * dreadful
 * tragic
+
+.记忆方法
+[NOTE]
+ttdd agfh
 
 == enjoy
 * savor
