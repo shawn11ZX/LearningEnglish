@@ -1,4 +1,5 @@
 = 同义词
+Shawn Zhang <sure.zhang@gmail.com>
 
 == popular
 * prevelant
@@ -116,3 +117,7 @@ She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person, 
 | exciting part | disappointing part
 |==================
 
+== 比较
+* compared to
+* differentiate from
+* in contract with

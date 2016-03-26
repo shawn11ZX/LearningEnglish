@@ -1,4 +1,5 @@
 = 生词
+Shawn Zhang <sure.zhang@gmail.com>
 
 * 大片 blockbuster
 * 外向 extroverted

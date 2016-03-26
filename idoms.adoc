@@ -1,4 +1,5 @@
 = 习惯用语
+Shawn Zhang <sure.zhang@gmail.com>
 
 * do more good that harm: 利大于弊
 * the advantage far more outweighs the harm
