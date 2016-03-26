@@ -18,6 +18,11 @@
 * 顺产 natrual birth, labour
 * 破腹产 C-section, surgical delivery
 
+
+* 远超承受能力 far beyond the affordibility of working class family 
+* 工薪阶级 working class family, middle class family
+
+
 == 动词
 * 坚持不懈 persist
 * 挡住阳光 block the light
@@ -31,19 +36,29 @@
 ** 急剧下降 plunged
 
 == 形容词
+
+=== 形容人
+
 * 过度小心的 overcautious
 * 胆小的 timid
 * 勤劳的 industrious, diligent, hard-working
 * 节俭的 frugal, economical, thrifty, provident, prudent
-* 好人
-** good person
-** wondful person
-* 吃苦耐劳的
-** tough
-** who can *stand hard works*
-* 走极端 go the extremes
+* 好人good person, wondful person
+* 吃苦耐劳的 tough, who can *stand hard works*
+* 走极端 go to(run to/lives in) the extremes
 * (人) 卓越 execellence
-* (城市）辉煌 brilliant
+* 杰出的 brilliant
+
+
+=== 形容房子
+* spacious 宽敞
+* bright 亮堂
+* crowded 拥挤
+* stuffy 闷热，不通气
+
+=== 形容城市
+* 辉煌 brilliant
+
 
 == 副词
 * 毫不 not a spark of 
