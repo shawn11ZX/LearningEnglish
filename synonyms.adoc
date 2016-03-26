@@ -112,5 +112,7 @@ She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person, 
 | prons | cons
 | gain | lost
 | benefit/profit | drawback
+| good thing/part | bad thing/part
+| exciting part | disappointing part
 |==================
 
