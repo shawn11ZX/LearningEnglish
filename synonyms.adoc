@@ -98,8 +98,15 @@ RAP，说唱
 * thrilled
 * joyful
 
+.例句
 [NOTE]
-She is a pleasant baby,    I am on cloud nine,    He is a very pleasant person,    I am joyful,    We are overjoyed with the results
+====
+* She is a pleasant baby
+* I am on cloud nine
+* He is a very pleasant person
+* I am joyful
+* We are overjoyed with the results
+====
 
 == sad
 * miserable
@@ -135,10 +142,16 @@ ttdd agfh
 ** savor the joy of simple pleasure
 ** savor the feeling of change
 
-== current 当今，今日 
+==  当今，今日 
+* current
 * today's
-** despite its *current importance*, the city used to be very poor.
-** its *today's brilliant* not only have somthing to do with it's location on the sea, but more importantly high related to the execellence of its inhabitants.
+
+.例句
+[NOTE]
+====
+* despite its *current importance*, the city used to be very poor.
+* its *today's brilliant* not only have somthing to do with it's location on the sea, but more importantly high related to the execellence of its inhabitants.
+====
 
 == 最终
 * eventually
@@ -179,8 +192,89 @@ ttdd agfh
 * fight
 * quarrel
 * debate
-** I had a terrible quarrel with my other brothers.
+
+.例句
+[NOTE]
+====
+* I had a terrible quarrel with my other brothers.
+* I would like to talk about the conversation the other day I had with my wife, after we had a *big fight* over some very trivial affair, which even not important at all for any of us.
+
+====
 
 == 礼物
 * gift
 * present
+
+
+== 越来越多
+* more and more
+* increase
+* grow
+* soar
+* multiply
+
+.例句
+[NOTE]
+====
+* The number of *obese people* have beening gradually increasing for the past ten years.
+* Vancancies are becoming more and more race. 工作空缺越来越少
+* Car use is *increasing at an alarming rate*
+* Sales and profit continue to grow
+* Ever since i became a landload, my troubles have *muliplied tenfold*
+* Their difficulties seem to *be multiplying*
+====
+
+
+== 打算做某事
+* want
+* willing to 
+* intend to
+
+== 希望，期望
+* want
+* wish
+* hope
+* expect
+
+.例句
+[NOTE]
+====
+* he's *hoping for* an offer of compensation
+====
+
+== 获得绿卡
+* awarded the permanent resident visa/permit 
+* acquire
+* obtain
+
+== 注意
+* focus
+* concentrate
+* pay attention to
+
+== 擅长
+* be good at
+* be skilled in
+* be adept at
+* be execellent in
+
+== 价格不高
+* price is fairly reasonable
+* a small price
+* not high priced
+
+== 表达actually
+* in fact
+* generally
+* for the most part
+* basically
+* in general
+* mostly
+* generally speaking
+
+== 表示不同
+* compared to 
+* while most of them think... i believed...
+* differ
+* unlike ... i think
+* instead of ... I would prefer ...

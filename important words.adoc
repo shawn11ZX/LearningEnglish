@@ -1,6 +1,8 @@
 = 生词
 Shawn Zhang <sure.zhang@gmail.com>
 
+== 名词
+
 * 大片 blockbuster
 * 外向 extroverted
 * 内向 introverted
@@ -33,6 +35,18 @@ Shawn Zhang <sure.zhang@gmail.com>
 
 * 经典的 classical (不是typical)
 
+* 现代服饰 modern dress
+
+* 深海鱼 deep ocean fish
+* 螃蟹 crab
+* 甲壳类动物 shell fish
+
+
+
+* 鞭炮 fire work, firecracker
+
+* 团圆 family reunion
+
 == 动词
 * 坚持不懈 persist
 * 挡住阳光 block the light
@@ -58,7 +72,8 @@ Shawn Zhang <sure.zhang@gmail.com>
 * 走极端 go to(run to/lives in) the extremes
 * (人) 卓越 execellence
 * 杰出的 brilliant
-
+* 独立 self-dependent
+* 老年人群 the elderly people
 
 === 形容房子
 * spacious 宽敞
@@ -75,3 +90,19 @@ Shawn Zhang <sure.zhang@gmail.com>
 == 副词
 * 毫不 not a spark of 
 ** she knew she should feel sorry for Melanie, but somehow she count not *muster a spark of* sympathy
+
+== 物质精神生活
+* 金钱 monetary 
+* 缺乏 lack, uncerntainty
+* 富裕 aboundant
+* 物质 material goods
+* 贫穷 poverty
+
+.例句
+[NOTE]
+====
+* It was a time of monetary lack and physical uncertainty. 这是一个金钱与物质缺乏的时期。
+* Physical illness is not frightening; what is frightening is illness of the mind. Lacking material goods is not devastating; what is devastating is poverty of the spirit.  身体有病不可怕，可怕的是心有病；物质缺乏不可怕，可怕的是心灵贫穷。
+* Although the rich material can't make the person get a happiness completely, coming from lack of material ages to rich material ages would let the people feel what is called the happy physical life. 虽然说，物质并不能完全使人得到幸福，但是，从一个物质缺乏的时代到另一个物质丰富的时代，会让人体会到什么叫物质生活带来的幸福。 
+====
+

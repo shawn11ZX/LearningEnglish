@@ -94,16 +94,21 @@ we did it because we felt it our duty
 * for example
 * in particular
 * as an example
+* *to be more precise*
 
 === 多个中强调其中之一，普通中强调特别
-[NOTE]
-he despised them all, especially Newyork
-[NOTE]
-I don't particularly want to be reminded of that time
+
 
 * especially
 * particularly
 * specifically
+
+.例句
+[NOTE]
+====
+* he despised them all, especially Newyork
+* I don't particularly want to be reminded of that time
+====
 
 === 表示事实上
 
