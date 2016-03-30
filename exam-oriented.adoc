@@ -36,11 +36,9 @@ Do you like animals
 Do you like animals
 
 
-* I suppose I'm not quite fond of ... and in particular I really can't stand ...
+* I suppose I'm not quite fond of ... and in particular I really can't stand ... I guest that might because of the fact that ...
 
-* I guest that might because of the fact that ...
-
-* On top of that, I'm also not such a fan of things like ... for example ...
+* On top of that, I'm also not such a fan of things like ... for example ... I suspect the main reason has sth to do with the fact that...
 
 
 ////////////////////////////////////////////////////////////////////////////
@@ -58,7 +56,7 @@ What kind of trasport are there in your city.
 
 * A second form of ... worth mentioning could be ... , and the main characteristic of ... is that ...
 
-* And of cause there is usually things like ...
+* And of course there is usually things like ...
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
@@ -100,7 +98,13 @@ Would you like to change your name?
 If I did something, I would...
 
 
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
 == Part Two
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+
 * So, I suppose I should commense with the first aspect which  ..., I think the one I would like to pick is ...
 
 * Now concerning with the matter of ..., the thing that need to be highlighted here is that...
@@ -111,6 +115,9 @@ If I did something, I would...
 
 * The cut a long story short, as my very last point, with reference to the question of ...
 
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
 === Experience
 .例题 
 [NOTE]

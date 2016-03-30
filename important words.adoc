@@ -47,6 +47,7 @@ Shawn Zhang <sure.zhang@gmail.com>
 
 * 团圆 family reunion
 
+* 市场占有率 market share ，高 maximum
 == 动词
 * 坚持不懈 persist
 * 挡住阳光 block the light
