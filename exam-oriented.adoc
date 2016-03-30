@@ -1,9 +1,9 @@
 = Exam Oriented
 
-
+== Part One
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== Basic Question
+=== Basic Question
 .例题
 [NOTE]
 Tell me something about you hometown
@@ -16,7 +16,7 @@ Tell me something about you hometown
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== Liking
+=== Liking
 .例题
 [NOTE]
 Do you like animals
@@ -30,7 +30,7 @@ Do you like animals
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== Disliking
+=== Disliking
 .例题
 [NOTE]
 Do you like animals
@@ -45,7 +45,7 @@ Do you like animals
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== Type of
+=== Type of
 
 .例题
 [NOTE]
@@ -62,7 +62,7 @@ What kind of trasport are there in your city.
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== How/What/When/Where
+=== How/What/When/Where
 .例题
 [NOTE]
 ====
@@ -80,7 +80,7 @@ What kind of trasport are there in your city.
 
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
-== Yes/No
+=== Yes/No
 .例题
 [NOTE]
 Is heath eating important
@@ -92,7 +92,7 @@ Is heath eating important
 * So all in all I guess Imy answer would probablly be both yes and no.
 
 
-== Would
+=== Would
 .例题
 [NOTE]
 Would you like to change your name?
@@ -110,3 +110,18 @@ If I did something, I would...
 
 
 * The cut a long story short, as my very last point, with reference to the question of ...
+
+=== Experience
+.例题 
+[NOTE]
+Descript a surprise you have
+
+* Well, if i think about it , there are actually a number of of ... that I'v ever had in the past few decades of my life that worth mentioning.
+
+* Though, due to the restriction of time, I guess I would like to talk about the time that ... a few months/years ago.
+
+* If I don't remember it wrong, about serveal weeks before then, ... I was ... 或者 While most of others is ..., I instead decide to ...
+
+* You can imagine (the big smile on my face) 或者 how sad/depressed/miserable/nervous/excited/thrilled/delighted/astonished/content I was when see/witness/expreience/received/finished/accomplished ...
+
+* I suppose 对应第四句(How you Feel, why you think so)
