@@ -1,5 +1,34 @@
 = Exam Oriented
 
+== 常见废话
+
+* 我想
+** I guess
+** I think
+** I suppose
+** I believe
+** I suspect
+
+* 我应该
+** I should not forget to
+** I need
+** I should
+** I would like to
+
+* 强调的是
+** mention
+** underline
+** emphasize
+** highlight
+
+* 的一点是
+** the fact that
+** the point of
+** the matter that
+** the one that
+** the thing that
+
+
 == Part One
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
@@ -105,7 +134,8 @@ If I did something, I would...
 ////////////////////////////////////////////////////////////////////////////
 ////////////////////////////////////////////////////////////////////////////
 
-* So, I suppose I should commense with the first aspect which  ..., I think the one I would like to pick is ...
+== 万能句型
+* So, I suppose I should start the ball rolling by talking about  ..., I think the one I would like to pick is ...
 
 * Now concerning with the matter of ..., the thing that need to be highlighted here is that...
 
@@ -114,6 +144,30 @@ If I did something, I would...
 
 
 * The cut a long story short, as my very last point, with reference to the question of ...
+
+
+////////////////////////////////////////////////////////////////////////////
+////////////////////////////////////////////////////////////////////////////
+=== People
+.例题 
+[NOTE]
+Descript a person that have influenced you
+
+* Well, if i think about it , there are actually a number of of person that ...  in the past few decades/years/months that worth mentioning.
+
+* Though, due to the restriction of time, I guess I would like to talk about the one that I am  *conversant* with the most.
+
+* I suppose I should start the ball rolling by firstly talking about ...
+
+* ...
+
+* In my experience, he might be one of  the most wondful/talented/happy/geneous/generous person that I'v ever known.
+
+* For one thing ...
+
+* Besides that, I guess I should not forget to highlight that fact that ...
+
+* And also, I think I would like to add that ...
 
 
 ////////////////////////////////////////////////////////////////////////////
