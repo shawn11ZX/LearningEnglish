@@ -3,26 +3,26 @@
 image::Reference/feelingsandemotionspictureswords.jpg[]
 
 == row 1
-* 易怒的：更年期
-** grumpy (注意区别clumsy): Some folks think I'm a grumpy old man.
-** gronchy: Your grandmother has nothing to stop her from being bored, grouchy, and lonely.
+* 更年期
+** 脾气暴躁 grumpy (注意区别clumsy): Some folks think I'm a grumpy old man.
+** 不高兴的 gronchy: Your grandmother has nothing to stop her from being bored, grouchy, and lonely.
 
-* 沮丧的：低头的小毛驴
-** dejected: In retrospect, I was a sad little boy and a standard-issue, shiftless, egotistical, **dejected** teen-ager
-** despondent: He was despondent over the breakup of his marriage
+* 低头的小毛驴
+** 沮丧的 dejected: In retrospect, I was a sad little boy and a standard-issue, shiftless, egotistical, **dejected** teen-ager
+** 沮丧，失望的 despondent: He was despondent over the breakup of his marriage
 
-* 悲惨的：大哭的小孩
-** miserable: I took a series of badly paid secretarial jobs which made me really miserable.
-** devastated: Teresa was devastated, her dreams shattered.
+* 大哭的小孩
+** 悲伤的 miserable: I took a series of badly paid secretarial jobs which made me really miserable.
+** 震惊的 devastated: Teresa was devastated, her dreams shattered.
 
 
-* 满意：采到蜂蜜的小蜜蜂
-** content
-** satisfied
+* 采到蜂蜜的小蜜蜂
+** 满意的 content
+** 满意的 satisfied
 
-* 害怕：缩头乌龟
-** afraid
-** terrified
+* 被惊吓的乌龟
+** 害怕的 afraid
+** 感到恐惧的 terrified
 
 /////////////////////////
 /////////////////////////
@@ -35,20 +35,20 @@ image::Reference/feelingsandemotionspictureswords.jpg[]
 
 * 平静祥和：躺在沙滩上
 ** relax
-** peaceful
-** tranquil: The tranquil atmosphere of the inn allows guests to feel totally at home.
+** 平静的 peaceful
+** 安宁的 tranquil: The tranquil atmosphere of the inn allows guests to feel totally at home.
 
 * 迷惑不解：好多只手
 ** confused
 ** puzzled
 
 * 喜出望外：发财的老板
-** overjoyed
-** ecstatic
+** 狂喜的 overjoyed
+** 狂喜的 ecstatic
 
 * 恼羞成怒：被工作搞得发脾气的白领
-** frustrated
-** irritated
+** 挫折的 frustrated
+** 恼怒的 irritated
 
 == row 3
 * 可疑的：带着可疑行李的人
@@ -71,22 +71,22 @@ image::Reference/feelingsandemotionspictureswords.jpg[]
 
 * 不安的，因觉得自己穿着丑陋而不安
 ** upset
-** agitated: The crowd was agitated by his speech.
+** 激动焦虑的 agitated: The crowd was agitated by his speech.
 
 == row 4
 * 激动的，土拨鼠看到春天
-** exicted
-** enthusiastic: Tom was very enthusiastic about the place.
+** 激动的 exicted
+** 热情的 enthusiastic: Tom was very enthusiastic about the place.
 
 
 * 淘气的，拿弹弓的婴儿
-** mis-chievous
-** ornery，刻薄暴躁的: The old lady was still being ornery, but at least she had consented to this visit.
+** 淘气的 mis-chievous
+** 刻薄暴躁的 ornery: The old lady was still being ornery, but at least she had consented to this visit.
 ** naughty
 
 * 好奇的：拿望远镜的小伙子
-** curious
-** inquisitive 爱打听的
+** 好奇的 curious
+** 爱打听的 inquisitive 
 
 * 心意已决的，离家出走的妇女
 ** determined
@@ -103,21 +103,22 @@ image::Reference/feelingsandemotionspictureswords.jpg[]
 ** en-raged
 
 * 阴郁，低头上楼的女孩
-** glumy
-** sulky
+** 忧郁的 glum
+** 阴郁的 sulky
+** 阴郁的 gloomy
 
-* 自豪的，钓到鱼的人
-** proud
-** pleased
+* 钓到鱼的人
+** 自豪的 proud
+** 高兴的 pleased
 
 
 * 无惧的，不怕揍的老鼠
-** fearless
-** undaunted: But for those undaunted, here's our guide to circumventing internet censorship.
+** 无畏的 fearless
+** 无畏勇敢的 undaunted: But for those undaunted, here's our guide to circumventing internet censorship.
 
 * 紧张的，要演讲的人
-** nervous
-** anxious
+** 不安的 nervous
+** 担忧的 anxious
 
 
 == happy
