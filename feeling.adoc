@@ -65,8 +65,9 @@
 * 震惊的：看见护士抱出三胞胎的爸爸
 ** shocked
 ** surprised
+** overwhelmed 不知所措
 
-* 不安的
+* 不安的，因觉得自己穿着丑陋而不安
 ** upset
 ** agitated: The crowd was agitated by his speech.
 
@@ -110,7 +111,7 @@
 
 * 无惧的，不怕揍的老鼠
 ** fearless
-** undaunted
+** undaunted: But for those undaunted, here's our guide to circumventing internet censorship.
 
 * 紧张的，要演讲的人
 ** nervous
