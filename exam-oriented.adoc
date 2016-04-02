@@ -14,20 +14,34 @@
 ** I need
 ** I should
 ** I would like to
+** I have to
 
 * 强调的是
 ** mention
 ** underline
 ** emphasize
 ** highlight
+** say
+** talk about
 
 * 的一点是
 ** the fact that
-** the point of
+** the point that
 ** the matter that
 ** the one that
 ** the thing that
 
+* 首先强调
+** begin by (mentioning)
+** start off by
+** start the ball rolling by
+** kick off by
+
+* 以一点为开始
+** begin with (the fact that)
+** start off with
+** start the ball rolling with
+** kick off with
 
 == Part One
 ////////////////////////////////////////////////////////////////////////////
@@ -39,7 +53,7 @@ Tell me something about you hometown
 
 * I could start off by saying that ...
 * Another point which I'd like to add is that ...
-* And also something I guest I should forget to mention is that ... 
+* And also something I guest I shouldn't forget to mention is that ... 
 
 
 
