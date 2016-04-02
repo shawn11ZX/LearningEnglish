@@ -8,6 +8,7 @@
 ** I suppose
 ** I believe
 ** I suspect
+** I image
 
 * 我应该
 ** I should not forget to
