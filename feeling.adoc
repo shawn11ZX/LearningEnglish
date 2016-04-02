@@ -34,7 +34,7 @@
 * 平静祥和：躺在沙滩上
 ** relax
 ** peaceful
-** tranquil
+** tranquil: The tranquil atmosphere of the inn allows guests to feel totally at home.
 
 * 迷惑不解：好多只手
 ** confused
