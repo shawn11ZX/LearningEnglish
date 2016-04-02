@@ -118,3 +118,38 @@ image::Reference/feelingsandemotionspictureswords.jpg[]
 * 紧张的，要演讲的人
 ** nervous
 ** anxious
+
+
+== happy
+* delighted
+* hilarious
+* pleased
+* satisfied
+* thrilled
+* joyful
+
+.例句
+[NOTE]
+====
+* She is a pleasant baby
+* I am on cloud nine
+* He is a very pleasant person
+* I am joyful
+* We are overjoyed with the results
+====
+
+== sad
+* miserable
+* unfortunate
+* depressed
+* gloomy
+* heart broken
+* unhappy
+
+.记忆方法
+[NOTE]
+Mudgh，有点掉土（mud）里了
+
+== disappointed
+* frustrated
+* discontented

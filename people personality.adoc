@@ -14,12 +14,26 @@
 | Scorpio   | 天蝎      | forceful 坚强，强有力 | obstinate 顽固的
 | sagittarius | 射手    | jovial 天性快乐       | tactless 不老练，不机智
 | Capricorn | 摩羯      | disciplined 有纪律的  | miserly 吝啬的
-| Aquarius  | 水瓶（phoebe）      | Humanitiarian 人道主义的 | unpredictable 不可预期的
+| Aquarius  | 水瓶（phoebe）      | humanitarian 人道主义的 | unpredictable 不可预期的
 | Pisces    | 双鱼      | compassionate 富同情心| vague 含糊不清
 |======================================================
 
-
 == 其他
+
+* 过度小心的 overcautious
+* 胆小的 timid
+* 勤劳的 industrious, diligent, hard-working
+* 节俭的 frugal, economical, thrifty, provident, prudent
+* 好人good person, wondful person
+* 吃苦耐劳的 tough, who can *stand hard works*
+* 走极端 go to(run to/lives in) the extremes
+* (人) 卓越 execellence
+* 杰出的 brilliant
+* 独立 self-dependent
+* 老年人群 the elderly people
+
+== 图片
+
 image::Reference/personality1.jpg[]
 
 image::Reference/personality2.jpg[]
