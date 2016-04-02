@@ -23,6 +23,9 @@
 ** highlight
 ** say
 ** talk about
+** comment on
+** remark on
+** add（第二三点)
 
 * 的一点是
 ** the fact that
