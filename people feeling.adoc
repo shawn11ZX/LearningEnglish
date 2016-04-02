@@ -48,7 +48,7 @@ image::Reference/feelingsandemotionspictureswords.jpg[]
 
 * 恼羞成怒：被工作搞得发脾气的白领
 ** 挫折的 frustrated
-** 恼怒的 irritated
+** 恼怒的 irritated: Not surprisingly, her teacher is getting irritated with her
 
 == row 3
 * 可疑的：带着可疑行李的人
