@@ -1,0 +1,39 @@
+== Writing 1
+.题目
+[NOTE]
+给定问题和一个别人的解决思路，问是问是不是同意该解决方法
+
+
+=== 第一段 给出错误方法，批判之
+
+引出别人的解决问题的思路  ... have reached such propotrtions that people feel  ... (sth must be done) to resolve these problems.
+
+说别人观点是错的，并给出简单原因 Whether this will resolve the problem is very unlikely as ...
+
+继续解释为什么别人是错的 That is, if ... then ...
+
+让步，说这个解决方法有一定的好处 Nevertheless, ...
+
+转折，说虽然我承认这个解决方法目标是好的，但是并不认为他能解决问题 Howerver, although I respect the aims of ... to resolve the issue of and support their cause, I do not believe it is the best or only way to ... 
+
+=== 第二段 给出抽象方法
+引出所有类似问题的根源 All ... problems, whether it is ... or ..., arise from ...
+
+然后给出一个抽象解决方法，比如集体意识或公德心 Therefore, the solution to all these problems is ...
+
+阐述这个抽象方法 What is meant by this is that ...
+
+解释抽象为啥为啥有效，即当这个前提存在时，会咋样  After all, if ... 
+
+=== 第三段 给出具体方法从而达到抽象方法
+
+给出具体解决方法 What is needed, therefore, is ...
+ 
+说明这个具体的解决方法是所有问题的钥匙 ... is the key to all problems and it start from ... all the way to ... and ... 
+
+给出这个具体方法需要做A，需要做B  Futhermore, ... means that ... ... means that
+
+=== 第四段 总结说明我们可行
+阐述我们虽然听起来不合实际，但是其实很合实际。This may sound like utopia, but it is not: if .... then ... 
+
+虽然是一个长期的解决方法，但是是可行的解决方法 These are perhaps long term solutions, but they are more realistic solutions than ...
