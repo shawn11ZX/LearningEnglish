@@ -1,12 +1,14 @@
 == Writing 1
 .题目
 [NOTE]
+====
 给定问题和一个别人的解决思路，问是问是不是同意该解决方法
-
+To what extent do you agree or disagree
+====
 
 === 第一段 给出错误方法，批判之
 
-引出别人的解决问题的思路  ... have reached such propotrtions that people feel  ... (sth must be done) to resolve these problems.
+引出别人的解决问题的思路  ... have reached such proportions that people feel  ... (sth must be done) to resolve these problems.
 
 说别人观点是错的，并给出简单原因 Whether this will resolve the problem is very unlikely as ...
 
@@ -37,3 +39,44 @@
 阐述我们虽然听起来不合实际，但是其实很合实际。This may sound like utopia, but it is not: if .... then ... 
 
 虽然是一个长期的解决方法，但是是可行的解决方法 These are perhaps long term solutions, but they are more realistic solutions than ...
+
+
+
+
+///////////////////////////////////////////////////////////
+///////////////////////////////////////////////////////////
+
+== Writing 2
+.题目
+[NOTE]
+====
+给定一个趋势，问这个趋势的好处比缺点好多少
+To what extent do the advantages outweigh the disadvantage?
+====
+
+=== 第一段 附会，给具体论点
+
+马上给出论点，然后细化论点说对趋势对日常生活有啥影响 ... certainly has the potential to bring about great advances for humankind. On a daily basis, we are eyewitnesses to how ...
+
+=== 第二段 说那些地方和人能享受该趋势的好处
+
+说在哪些地方哪些方面我们可以看到这个趋势 In ...(some place) we can observe a growing ... trend in那些地方 ... (some aspect) 
+
+给具体例子 
+
+将例子抽象化 In particular, ...
+
+=== 第三段 说有些地方和人不能享受好处
+说好处并没有在所有地方被享受 However, it is not presently guaranteed that these advances are equally shared by all members of the global community.
+
+The truth lies somewhere closer to the fact that ... often have negative effects on ...
+
+=== 说该趋势的问题
+说一些缺点，然后应对措施 Many argue that the cost of ... are too high and that ... (sth must be done)  before ...
+
+=== 总结，需要给负面影响更多关注，
+因此需要给负面影响更多的关注 Therefore, it is necessary for the  ... to place greater emphasis on the impact of ... on human welfare. 
+
+如何消除负面影响 和 In order to achieve a just and equal distribution of the benefits of ..., its negative side effects need to be counteracted by reforms in ... at international, reigional, and local levels.
+
+只有这么做才有什么好处 Only by further developing the way in which ... can we make sure that ...
