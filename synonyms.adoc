@@ -303,6 +303,7 @@ ttdd agfh
 * kids
 * young people 
 * youth
+* younger generation
 
 == 关进监狱
 * imprison
@@ -314,3 +315,15 @@ ttdd agfh
 == 人身安全
 * human security
 * personal safety
+
+== 破坏
+* jeopardize
+* damage
+* harm
+
+
+== 历史古迹
+* historic sites
+* historic places
+* heritage sites
+* cultural relic 文化遗产

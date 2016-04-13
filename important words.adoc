@@ -50,6 +50,9 @@ Shawn Zhang <sure.zhang@gmail.com>
 * 市场占有率 market share ，高 maximum
 * 白皮肤  pale complexion
 
+* 下一代 next generation
+* 基础 basis
+
 
 == 动词
 * 坚持不懈 persist
@@ -64,6 +67,11 @@ Shawn Zhang <sure.zhang@gmail.com>
 ** 急剧下降 plunged
 
 == 形容词
+
+* compulsory 强制的
+* reciting 背诵
+* stifle 扼杀 反义词 inspire
+** the subject should ispire interest in the past, not stifle it.
 
 === 形容人
 
