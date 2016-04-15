@@ -327,3 +327,16 @@ ttdd agfh
 * historic places
 * heritage sites
 * cultural relic 文化遗产
+
+== 期望
+* hope
+* expectation
+
+
+== 喜欢
+* like
+* be interested in sth
+
+== 商品
+* products
+* goods
