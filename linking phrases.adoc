@@ -26,6 +26,8 @@ Shawn Zhang <sure.zhang@gmail.com>
 * also
 * likewise
 * equally
+* meanwhile
+** boys like to play with ..., meanwhile girls like to play with...
 
 .记忆方法
 [NOTE]

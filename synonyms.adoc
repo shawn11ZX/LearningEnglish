@@ -255,7 +255,7 @@ ttdd agfh
 * undertake
 
 == 重要
-* important
+* important (of importance)
 * essential
 * significant
 * fundamental
@@ -301,7 +301,8 @@ ttdd agfh
 == 小孩
 * children
 * kids
-* young people 
+* young people
+* young kids
 * youth
 * younger generation
 
@@ -340,3 +341,14 @@ ttdd agfh
 == 商品
 * products
 * goods
+
+== 影响
+* have heavy impact on sb/sth
+* influenced sb/sth significantly 
+* the changes sth have brought to us
+
+== 整年
+* all the year round
+* all through the year
+* whole year
+* all year
