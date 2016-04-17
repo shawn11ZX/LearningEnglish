@@ -146,8 +146,13 @@ we did it because we felt it our duty
 
 === 在此基础上
 * in that case
+* in that situation
 * under those circumstanses
 
+=== 以我的经验
+* in my experience
+* in my understanding
+* to my knowledge
 
 == Reference
 * http://www.smart-words.org/linking-words/transition-words.html
