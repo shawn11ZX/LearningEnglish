@@ -1,3 +1,26 @@
+== 废话
+* That's hard to say
+* Oh, it's a very tough question
+* To be frank, it is really hard to tell.
+* I don't think there is an easy answer to this question
+* Well, this is rather extensive topic
+
+== 什么东西更xxx或最xxx
+** Of course different people value different aspects of ( a good teacher )
+
+== 为什么
+* It's very natual
+* To me, it is kind of human nature
+
+== 世界在变化
+** With the development of economy
+** As globalization is accelerating, civilization and culture clashes are unavoidable
+** In the foreseeable future
+** we live in a world of the explosion of knowledge
+** Great changes have taken place in the past several decades.
+** sth in the future will have more varieties to *cater to the tastes of* different audience groups
+
+
 == People
 * 随和 easy going
 * 好心肠 kind-hearted
@@ -5,9 +28,30 @@
 * 乐观 optimism
 * 吃过苦 go though a lot of hardships
 * 友善的脸　pleasant face 
+* 高兴的 cheerful
 
-== Teacher
+== 美好的人生
+* 美满的家庭 have a fulfilling family life
+* 子女是最好的礼物 his child is the best gifts he has ever received
+* 热爱生活 a love of life
+* 感恩的心 a thankfull attitude towards life
+* 快乐来自内心 happiness does not come from outside, it comes from within
+* 快乐是态度 happiness is simply a matter of attitude
+* 高道德标准的生活 live up to high ethical standards
 
+== 结交朋友
+* 经常拜访  visit from time to time
+* 做同样的事情回报 do the same in return
+* 认识人最好的途径是出去玩 there's nothing better to know each other than exploring new places
+
+== 教育
+
+* 负面教育
+** rote learning 
+** duck feeding
+** stifle one's interest in sth
+
+* 注入生命 breath life into the subject he's teaching
 * 奉献的 dedicated
 * 拼搏的 fighting spirit
 * 激发优点 bring out the best in their students
@@ -42,8 +86,72 @@
 ** rich families
 ** financial standing
 
-== 帮组人
+== Film 
+* 领域
+** Film
+** TV serials
+** mass media
 
+* embarked on a new career in films
+* 成功有两点原因 there are two reasons *contributing to* his success
+* 杰出的表演技能 excellent acting skills
+* 演员的影响
+** role models
+** value system (behavior consistent with value system)
+* Celebrity的好处
+** give people *a sense of self-fulfillment*
+** bring huge profits to sb, *financially and socially*
+** earn *considerable amount of money*
+** social status
+** privileges
+** resources
+** people's admiration
+** Hold sth in sb's hand
+* Celebrity的坏处
+** in the focus of limelight
+** sought after objects
+** trivial mistake exemplified, spread far and wide
+** What they *gain is based on their sacrifice of some important parts of* their childhood 
+
+* 新星冉冉升起 a new kind of film star is *on the rise*
+* violent film
+** yound people -> goupe character: full of energy
+** few conversation and much action
+** quick paced
+** visual enjoyment
+** immitate
+
+
+== Sports star
+* 跨栏 hurdle race
+* 奥林匹克 2004 Olympics Games
+* 世界纪录
+** 齐平 evens the world record
+** 打破 break the world record
+* 在全世界观众面前创造力奇迹 creating a miracle in front of a world of *spectators*
+* 品质
+** full of drive
+** capable
+* 运动的好处
+** a active way to relax, make people healthy
+** cultivate the team spirit, help develop the ability to cooperate
+** 运动的类型
+** volleyball, basketball, pingpong, badminton, tennis
+* 羽毛球场地 badminton court
+
+* 运动员职业
+** 运动员 sportsman
+** 职业 vocation
+** salary should *in accordance with* sb's social value
+** 职业 profession
+** 经济效益 economic effect
+* 剥夺拍广告权利
+** 拍广告 shooting commercials
+** 没有依据的 groundless
+** 剥夺权利 be deprived this right
+
+==  帮助人
+* extend my help to those I do not know but in *dire need*
 * 信任危机 trust crisis
 * 急需版主的人 people in urgent need of help
 * 社会热点 hot social issues
@@ -55,7 +163,7 @@
 * make a purchasing decision
 * sudden decision
 * TV commercials
-* same the time and the hassle of going to the mall
+* *save the time and the hassle of* going to the mall
 * grocery
 * department stores 百货公司
 * chain supermarket 连锁超市
