@@ -352,3 +352,19 @@ ttdd agfh
 * all through the year
 * whole year
 * all year
+
+== 影响
+* effect
+* influence
+* impact
+
+== 正面影响
+* active 
+* psotive
+* encouraging
+
+== 负面影响
+* adverse impact
+* negative
+* opposite
+* counter
