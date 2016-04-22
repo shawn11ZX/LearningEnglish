@@ -15,13 +15,17 @@
 
 == 世界在变化
 ** With the development of economy
+** With the rising of ...
 ** As globalization is accelerating, civilization and culture clashes are unavoidable
+** *The rise in the living standard* only make things worse
+** Since the introducing of the ...
+** *As the country develops*, there are many problems during the process.
+
+** ever changing society like China
 ** In the foreseeable future
 ** we live in a world of the explosion of knowledge
 ** Great changes have taken place in the past several decades.
 ** sth in the future will have more varieties to *cater to the tastes of* different audience groups
-** *The rise in the living standard* only make things worse
-** ever changing society like China
 
 == People
 * 随和 easy going
@@ -40,6 +44,10 @@
 * 快乐来自内心 happiness does not come from outside, it comes from within
 * 快乐是态度 happiness is simply a matter of attitude
 * 高道德标准的生活 live up to high ethical standards
+* 稳定的生活
+** stable life
+** steady life
+** live a life of comfort and security
 
 == 结交朋友
 * 经常拜访  visit from time to time
@@ -91,12 +99,12 @@
 == 建筑 
 * 结构
 ** wooden frame structure
-** built with concreate and stell
-* steep roof, snow can't sellte on the roof
+** built with concreate and steal
+** steep roof, snow can't sellte on the roof
 
 
 * 坚固 sturdy
-* amenities
+* 便利设施 amenities
 * 环保 environmentally friendly
 * 节能 energy saving
 * 回家的感觉 give a feeling that you are back home
@@ -107,6 +115,8 @@
 ** Film
 ** TV serials
 ** mass media
+** 新闻新闻片 newsreels
+** 纪录片 documentary films
 
 * embarked on a new career in films
 * 成功有两点原因 there are two reasons *contributing to* his success
@@ -131,7 +141,7 @@
 
 * 新星冉冉升起 a new kind of film star is *on the rise*
 * violent film
-** yound people -> goupe character: full of energy
+** yound people -> group character: full of energy
 ** few conversation and much action
 ** quick paced
 ** visual enjoyment
@@ -175,24 +185,24 @@
 
 
 == Shopping
-* windows shopping 逛商场
+* 逛商场 windows shopping 
 * make a purchasing decision
 * sudden decision
 * TV commercials
 * *save the time and the hassle of* going to the mall
 * grocery
-* department stores 百货公司
-* chain supermarket 连锁超市
-* online shopping  internet shopping
-* beautifully-packaged stuff
-* one-stop shopping 一站式购物
-* checking account 活期存款
+* 百货公司 department stores 
+* 连锁超市 chain supermarket
+* 在线购物 online shopping/internet shopping
+* 包装华美的东西 beautifully-packaged stuff
+* 一站式购物 one-stop shopping 
+* 活期存款 checking account 
 
 == Toys
 * 开发，训练
-** develop children's intellect and interest
-** train the brains
-** excisise their hands and the whole body
+** *develop* children's intellect and interest
+** *train* the brains
+** *excisise* their hands and the whole body
 * 陪伴
 ** consider toys as companies
 ** they are very important as a kind of companion
@@ -248,10 +258,10 @@
 
 * 风格 
 ** simple style
-** brand zealots 品牌狂热者 emphasize tastes of life, expec a lot from life
-** dress in a avant-garde style 先锋派 - care about life, sensitive about fashion.
-** colorful clothes - confident and passionate
-** hip-hop passionate and dynamic
+** 品牌狂热者 brand zealots -> emphasize tastes of life, expec a lot from life
+** 先锋派 dress in a avant-garde style -> care about life, sensitive about fashion.
+** colorful clothes -> confident and passionate
+** hip-hop -> passionate and dynamic
 
 * 男性衣着
 ** suit and white shirt
@@ -295,3 +305,39 @@
 == 犯罪
 ** convicted as guilty
 ** condemn 定罪，谴责 He was condemned to life imprisonment
+
+== 风景
+* 美丽的自然风光 beautiful natural scenery
+* 风景的好处
+** 观光（行为）sightseeing
+** 新鲜空气 fresh air
+** 回顾人生 reflect on my life experience
+** 忘记烦恼 temporarily forget about all troubles in life
+** 重新打起精神 got *more refreshed and better prepared* for the work or study *afterwards*
+* 现代人的困惑 Modern people are faced with too much pressure and competition *from all sides in terms of* work, study, and relationships
+
+== 古迹
+* 珍贵遗产 precious heritage
+* 重大历史价值 significant historic value
+* 遗迹的意义
+** pass on the culture of it people
+** promote people's *consciousness* / *sense* of the need to protect historic places.
+* Though some people have begun to realize the importance of ..., it is still not an issue that draws great attention for the general public.
+* 学历史的意义
+* observe recent reality better
+* inspire intersest in the past
+
+* 保护文物
+** policy support
+** enough money
+** 前提 premise is
+** neglect of protection had repire
+* 历史的
+** 事件 events
+** 人物 figures
+
+== 沙滩
+* stroll along the beach 
+* sit there and relax
+* scuba diving
+* surfing

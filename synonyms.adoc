@@ -9,7 +9,7 @@ Shawn Zhang <sure.zhang@gmail.com>
 
 * common
 * *appreciated*
-* prevalent
+* prevalent (动词 prevail)
 
 * conventional
 * customary
@@ -231,14 +231,35 @@ ttdd agfh
 * a small price
 * not high priced
 
-== 表达actually
-* in fact
-* generally
-* for the most part
-* basically
-* in general
-* mostly
-* generally speaking
+== 显然的
+* natually
+* obvisously
+* of couse
+* as might be expected
+
+* and naturally, there are things like
+
+== 表达总体上来说
+* 第一部分
+** actually
+** in fact
+** well
+* 第二部分
+** generally
+** for the most part
+** basically
+** in general
+** mostly
+** generally speaking
+* 第三部分
+** I would probabley
+** have to 
+** should really
+** would definitely
+** would certainly
+
+* 第四部分
+** say that
 
 == 表示不同
 * compared to 
@@ -326,7 +347,7 @@ ttdd agfh
 == 历史古迹
 * historic sites
 * historic places
-* heritage sites
+* precious heritage sites
 * cultural relic 文化遗产
 
 == 期望
@@ -368,3 +389,69 @@ ttdd agfh
 * negative
 * opposite
 * counter
+
+== 真正的 
+* really
+* truely
+* simply
+* farily
+* quite
+* generally
+* totally
+
+== 喜欢 
+* obsessed with
+* a big fan of
+* fond of
+* enthusiastic about
+* passonate about
+* fasinated by
+* love
+* like
+* kee on
+* into 
+* adore
+* mad about
+* prefer ... to ...
+
+== 不喜欢
+* not such a fan of
+* not so much 喜欢
+* can't stand
+
+== 多样
+* mixed variety of
+* wide range of
+* diverse mixture of
+* extensive diversity of
+* broad range of
+
+== 可能
+* 很有可能
+** quite possible
+** probably
+** quite likely
+** more likely
+* 几乎肯定的
+** almost certain
+** almost always
+* 最可能的
+** most certainly
+** most likely
+
+== 可能是
+* could/would/may加上
+* probably be
+* perhaps be
+* well be
+* possibly be
+* potentially be
+
+
+== 理解，感知
+* 感知 perceiving(perceive的动名词): Stress is widely perceived as contributing to coronary heart disease
+* 看法 perception(perceive的名词): Chinesese perception of things
+* 理解 understanding
+* 设想 conceive
+[NOTE]
+To **perceive **is to become aware of something directly through the senses. To **conceive **is to form something in the mind or to develop an understanding. So perceiving is merely seeing, and conceiving is deeper. 
