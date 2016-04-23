@@ -1,0 +1,58 @@
+[source,java]
+----
+1.New Year's Day 元旦(1月1日) 
+2.Spring Festival;Chinese New Year's Day 春节(农历一月一日) 
+3.Lantern Festival 元宵节(农历一月十五日) 
+4.International Working Women's Day 国际劳动妇女节(3月8日) 
+5.Arbor Day 植树节(3月12日) 
+6.Postal Day  邮政节(3月20日) 
+7.World Meteorology Day 世界气象节(3月23日) 
+8.Ching Ming Festival ;Tomb-sweeping Festival 清明节(4月5日) 
+9.International Labour Day 国际劳动节(5月1日) 
+10.Chinese Youth Day 中国青年节(5月4日) 
+11.Nurses' Festival 护士节(5月12日) 
+12.Dragon Boat Festival 端午节(农历五月初五) 
+13.International Children's Day 国际儿童节(6月1日) 
+14.The Party's Brithday 中国共产党成立纪念日(7月1日) 
+15.The Army's Day 建军节(8月1日) 
+16.Mid-Autumn (Moon)Festival 中秋节(农历八月十五) 
+17.Teacher's Day 教师节(9月10日) 
+18.Double-ninth Day 重阳节(农历九月九日) 
+19.National Day 国庆节(10月1日) 
+20.New Year's Eve 除夕(农历十二月三十日)
+----
+
+
+[source,java]
+----
+中国常见传统活动中英对照
+
+过年 celebrate the spring festival
+春联 spring festival couplets
+剪纸 paper-cuts 
+年画 new year paintings
+买年货 do shopping for the spring festival ; do spring festival shopping 
+敬酒 propose a toast 
+灯笼 lantern 
+烟花 fireworks 
+爆竹 firecrackers (people scare off evil spirits and ghosts with the loud pop.) 
+红包 red packets (cash wrapped up in red paper, symbolize fortune and wealth in the coming year.) 
+舞狮 lion dance (the lion is believed to be able to dispel evil and bring good luck.) 
+舞龙 dragon dance (to expect good weather and good harvests) 
+戏曲 traditional opera 
+杂耍 variety show 
+灯谜 riddles written on lanterns 
+灯会 exhibit of lanterns 
+守岁 staying-up 
+拜年 pay new year's call; give new year's greetings; pay new year's visit 
+禁忌 taboo 
+去晦气 get rid of the ill- fortune 
+祭祖宗 offer sacrifices to one's ancestors 
+压岁钱 gift money; money given to children as a lunar new year gift culture note: in the old days, new year's money was given in the form of one hundred copper coins strung together on a red string and symbolized the hope that one would live to be a hundred years old. today, money is placed inside red envelopes in denominations considered auspicious and given to represent luck and wealth 
+辞旧岁 bid farewell to the old year 
+扫房 spring cleaning; general house-cleaning 
+年糕 nian-gao; rise cake; new year cake 
+团圆饭 family reunion dinner 
+年夜饭 the dinner on new year's eve 
+饺子 jiao-zi; chinese meat ravioli
+----
