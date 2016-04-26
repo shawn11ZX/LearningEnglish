@@ -1,4 +1,47 @@
+== Report (Analysis Problem then Give Solution)
+* 描述问题，给出抽象概念指明原因（比如Modern Life style）
+** 问题 seems to be an 
+increasingly widespread problem and I think that 很抽象方向 are probably responsible for this.
+
+* 解释这个抽象的概念，比如什么样的modern life style
+
+* 引出抽象措施
+** 哪些相关人 often complain about this problem and measures should be taken to change the situation. But I think that the solution to the problem lies with 抽象措施. If 虚拟时态 抽象措施达到, the whole society would benefit
+
+* 给出具体措施
+** 具体措施一 are needed to help 谁 to achieve this goal, and 
+** 具体措施二 could be set up that would support 谁 more in ... 
+** The government should fund this kind of support for 谁 because this is no longer a problem for individual ..., but a problem for society as a whole.
+
+
 == D & G
+
+* 概述 + 对两个观点描述
+** ...
+** Some people think that ..., while others believe that ... is a better choice.
+
+* 观点1
+** One of the main benefits of ... is ...
+*** 观点一　means that ...
+*** 观点二　means that ...
+** Another benefit of 观点一 is ...
+*** 论证
+*** By contrast, 观点二 ...
+* 观点2
+** However, there are also arguments in vavour of 观点2
+** 论证
+** One advantages is that...
+** 论证
+** Another benefit of 观点2 is that
+** 论证 Follwing this, ...
+** Also, 好处3
+
+* 结论
+** 总结
+** In my opinion, I feel that 观点2 is of more benefit
+
+
+== 句型
 
 * 争论的问题
 
