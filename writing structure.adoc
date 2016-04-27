@@ -1,3 +1,27 @@
+== Discuss Advantage & Disadvantage
+
+* 第一段
+** It is true that 存在某个现象
+** Whether or not this is a good thing for ..., is a moot point.
+** On the face of it the advantage seem most apparent, but could there be a downside to this phenomenon of ... as well?
+
+* 第二段 
+** Most peole would think/consider/believe
+** 论证1
+** 论证2
+
+* 第三段
+** Is it possible that ... could be in any way detrimental to ...
+** This is an unusual question, but there are some hidden pitfalls.
+** For one,
+** For another,
+** On the social side,
+** Finally,
+
+* 第四段
+** It is clear then that this situation is not as straightforward as it first appears.
+** It would seem that ...
+
 == Report (Analysis Problem then Give Solution)
 * 描述问题，给出抽象概念指明原因（比如Modern Life style）
 ** 问题 seems to be an 
@@ -13,8 +37,17 @@ increasingly widespread problem and I think that 很抽象方向 are probably re
 ** 具体措施二 could be set up that would support 谁 more in ... 
 ** The government should fund this kind of support for 谁 because this is no longer a problem for individual ..., but a problem for society as a whole.
 
+== D & G (1)
+* The issue of ... has arisen as a result of ...
 
-== D & G
+* Many people argue that ...
+
+* However, others believe that ...
+
+* My own opinion on this issue is that...
+* I aslo believe that...
+
+== D & G (2)
 
 * 概述 + 对两个观点描述
 ** ...
@@ -28,7 +61,7 @@ increasingly widespread problem and I think that 很抽象方向 are probably re
 *** 论证
 *** By contrast, 观点二 ...
 * 观点2
-** However, there are also arguments in vavour of 观点2
+** However, there are also arguments in favour of 观点2
 ** 论证
 ** One advantages is that...
 ** 论证
