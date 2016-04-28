@@ -1,3 +1,25 @@
+== Agree & Disagree
+
+* 第一段
+** 背景
+** some people think that...
+** I party/totally agree/disagree with this view
+** 或者 Overall, I agree/disagree with this view.
+
+* 第二段
+** There are three main reasons why ...
+** Firstly
+** Secondly
+** Thirdly
+
+* 第三段
+** Howerver, ...
+
+
+* 第四段
+* Overall, I believe that ...
+
+
 == Discuss Advantage & Disadvantage
 
 * 第一段
@@ -22,10 +44,10 @@
 ** It is clear then that this situation is not as straightforward as it first appears.
 ** It would seem that ...
 
+
 == Report (Analysis Problem then Give Solution)
 * 描述问题，给出抽象概念指明原因（比如Modern Life style）
-** 问题 seems to be an 
-increasingly widespread problem and I think that 很抽象方向 are probably responsible for this.
+** 问题 seems to be an increasingly widespread problem and I think that 很抽象方向 are probably responsible for this.
 
 * 解释这个抽象的概念，比如什么样的modern life style
 
@@ -45,7 +67,7 @@ increasingly widespread problem and I think that 很抽象方向 are probably re
 * However, others believe that ...
 
 * My own opinion on this issue is that...
-* I aslo believe that...
+* I aslo believe
 
 == D & G (2)
 
