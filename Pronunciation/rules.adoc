@@ -1,7 +1,7 @@
 = Rules
 
 
-=== 开音节
+=== 音节
 
 .音节分类
 [width="100%",options="header,footer"]
