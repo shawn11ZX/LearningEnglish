@@ -47,3 +47,18 @@ a-bout be-fore ex-cuse re-pair for-get-ful in-ven-tor
 - 双音节名词60%以上是第一个音节重读；双音节动词有90%以上是第二个音节重读；
 - 三个或三个以上音节的单词中有比较大的一部分是倒数第三个音节重读；
 - 能辨清词头、词干和词尾的，一般都是词干重读；⑤含有—tion—sion，—ssion等字母组合的，肯定是该字母组合前紧挨着那个的音节重读。[1] 
+
+
+=== 后缀发音(自己总结)
+
+.从ist变成istic，is重读
+
+- altruist: AL'-tru-ist
+- altruistic: al-tru-IS'-tik
+- tourist: tue'-rist
+- touristic: tue-RIS'-tik 
+
+.sm，第一个音节重读
+- altruism: AL'-tru-iz-em
+- tourism
+

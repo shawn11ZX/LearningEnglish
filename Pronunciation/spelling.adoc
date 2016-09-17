@@ -1,0 +1,27 @@
+=== 拼写
+
+.名词
+- -ity: quality, condition of sth
+* dignity
+- -ist: person who ...
+* tourist
+- -y: the practise, custom of sth
+* monogamy
+
+.形容词
+- -ous
+- -ic
+
+.名词变形容词
+
+[width="100%",options="header,footer"]
+|====================
+| 名词后缀 | 形容词后缀 | 举例
+| p-y  |  p-ic | misoanthropy, misoanthropic
+| n-y | n-ous | misogyny, misogynous
+| m-y | m-ous | monogamy, monogamous
+| g-y | g-ical, g-ic, g-ous | anthropology, anthropological, technology, technologic/technological, polygomy, polygomous, polygomic
+| ist | ist-ic | misogynist, misogynistic
+| dr-y | dr-ic, dr-ous | polyandry, polyandrous, polyandric
+|====================
+
