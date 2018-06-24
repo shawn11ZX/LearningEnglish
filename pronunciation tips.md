@@ -215,7 +215,7 @@ In fluent speech, when a /s/ sound is followed by a /j/ then the /s/ changes to 
 - Don't worry, that's usual.  
 - He always makes you feel good.
 
-### 27. The gemination of /t/
+### 27. The gemination of /t/ ★★★★★
 You might remember from a previous video that when the sound /t/ comes in between two consonants, we don’t usually pronounce it.
 
 **But what happens if there is a vowel sound before the /t/? and the next word also begins with /t/?
@@ -227,7 +227,7 @@ You might remember from a previous video that when the sound /t/ comes in betwee
 - You were righ**t t**o be upset.  
 - We took the overnigh**t t**rain to Venice.
 
-### 28. assimilation of /d/ and /b/
+### 28. assimilation of /d/ and /b/ ★★★★★
 
 In everyday speech, when we’re speaking fluently, if one word ends in a **vowel** sound followed by a **/d/** and the next begins in a **/b/**, then the **/d/** changes to a **/b/** and then merges with the **/b/ from the following word**. So ‘speed boat’, becomes ‘spee**bb**oat’. Watch again, this time in slow motion.
 
