@@ -1,5 +1,5 @@
 # Tim's workshop
-### 01. 'was' and 'were'
+### 01. 'was' and 'were' 
 was 原来的发音是 /w/, /ɔ:/, / 但是unstresssed时，**was** becomes /wəz/, and also **were** becomes /wə/.
 
  - I was there when it happened.   
@@ -7,7 +7,7 @@ was 原来的发音是 /w/, /ɔ:/, / 但是unstresssed时，**was** becomes /wə
  - We were having a good time until it rained.   
  - He was feeling much better last night.
 
-### 02. Assimilation of /t/ and /p/
+### 02. Assimilation of /t/ and /p/ ★★★★★
 
  if one word ends in a /t/ sound and the next word begins in a /p/ sound, the /t/ is pronounced slightly differently. In fact, we pronounce it as if it were almost a /p/ sound.
 
@@ -16,7 +16,7 @@ was 原来的发音是 /w/, /ɔ:/, / 但是unstresssed时，**was** becomes /wə
  - I ha(te) potatoes.      
  - My ma(te) picked us up from the airport.
 
-### 03. And
+### 03. And ★★★★★ 
 
 **And** is not usually an important word. It’s a basic conjunction and it's frequently unstressed. When this happens, the /d/ at the end of the word disappears before both vowels and consonants, and the vowel sound at the beginning of the word changes to schwa: /ə/, so **and** becomes /ən/ or even /n/ as the sounds are almost identical.
 
@@ -25,7 +25,7 @@ was 原来的发音是 /w/, /ɔ:/, / 但是unstresssed时，**was** becomes /wə
 - I’ve been thinking and thinking but I can't decide.  
 - We went for a coffee and something to eat.
 
-### 04. Schwa
+### 04. Schwa ★★★★★
 The words 'a' and 'of' are both pronounced as **/ə/** and they're not stressed. This sound **/ə/** is the most common sound in the whole English language. It's so common that it even has its own name – schwa.
 
 - I like **a** cup **of** tea in the morning.  
@@ -43,7 +43,7 @@ The word after war begins with a vowel sound. And in this case, the 'r' is prono
 - You've got something in you**r e**ye.  
 - Neve**r a**gain!
 
-### 06. Have to
+### 06. Have to ★★★★★
 
 When we use the verb ‘have’ in its modal form: ‘have to’ meaning an obligation, the /v/ at the end of the word changes to an /f/. Also the vowel sound in the word ‘to’ changes to a schwa - /ə/. ‘Have to’ becomes /hæftə/.
 
@@ -63,7 +63,7 @@ And this is called intrusion.
 - There was a fl**aw i**n the argument.  
 - I s**aw a** good film last night.
 
-### 08. Elision of /t/
+### 08. Elision of /t/ ★★★★★
 
 n everyday speech, when a /t/ sound comes in between two consonant sounds, we often don't pronounce it. This is because it makes the words flow together more fluently. It's more difficult to say three consonants together in a row when /t/ is in the middle. Your mouth has to do too much work. 'I can't do it' is more difficult to say than 'I can't do it'. When a sound disappears in between two words, it's called elision.
 
@@ -75,7 +75,7 @@ n everyday speech, when a /t/ sound comes in between two consonant sounds, we of
 
 
 
-### 10. Assimilation of /t/ followed by /j/
+### 10. Assimilation of /t/ followed by /j/ ★★★★★
 
 In fluent speech, when one word ends in /t/ and the next begins with a /j/ sound, like 'you' or 'yours', then the two sounds come together and change to /ʧ/. So 'meet you' becomes **/mi****ːʧ****u****ː****/**.
 
@@ -84,7 +84,7 @@ In fluent speech, when one word ends in /t/ and the next begins with a /j/ sound
 - I be**t y**our boss doesn’t know.  
 - Can I ge**t y**ou anything?
 
-### 11. Assimilation of /nd/
+### 11. Assimilation of /nd/ ★★★★★
 
 Instead of 'sandwich', we hear 'samwich'. That's pretty crazy, right! So, what is going on? Well, first the /d/ disappears in between two consonants. You might remember this from our video on elision. So 'sandwich' becomes 'sa**n**wich'. Now, we have an /n/ followed by a /w/ and /n/ changes to /m/ before /w/.
 
@@ -93,7 +93,7 @@ Instead of 'sandwich', we hear 'samwich'. That's pretty crazy, right! So, what i
 - The ba**nd p**layed until midnight.  
 - I left my ha**ndb**ag on the train.
 
-### 12. Elision of /d/
+### 12. Elision of /d/ ★★★★★
 It’s very difficult to say /d/ when it comes in between two other consonants. Your mouth has to do a lot of work. So in many cases the /d/ is not pronounced. '**Boiled potatoes** becomes '**boilpotatoes**'. And '**steamed potatoes**' becomes **steampotatoes**. This is called elision. Here are some more examples.
 
 - My best frien**d** let me borrow his car.  
@@ -109,7 +109,7 @@ In fluent everyday English, when the modal auxiliary 'can' is unstressed, its pr
 - You can succeed if you work hard.  
 - How far can you throw a tennis ball?
 
-### 14. Assimilation of /d/ to /g/
+### 14. Assimilation of /d/ to /g/ ★★★★★
 In fluent speech, a /d/ changes to a /g/ when it comes before a /g/ or a /k/. So 'bad girl' becomes 'bagirl'. This is an example of what is called assimilation. Here are some more.
 - He’s a really goo**d c**ook.  
 - Last night we ha**d g**uests for dinner.  
@@ -152,7 +152,7 @@ If it’s not stressed, the pronunciation of the word **the** will change depend
 - **The** earlier I get up, **the** happier I am.  
 - It’s **the** one over there.
 
-### 19. twining of /s/
+### 19. twining of /s/ ★★★★★
 
 When one word ends in a /s/ sound and the next word begins in /s/, we don't pronounce both sounds, nor do we pronounce just one sound. Instead they come together to make a slightly longer 's' sound. So, 'he looks sad' becomes 'he lookssad'. This is called 'twinning' or gemination.
 
@@ -200,7 +200,7 @@ When the verb  **have** is used as an auxiliary it’s often contracted. And whe
 ### 24. Linking /j/
 
 
-### 25. Elision of /h/
+### 25. Elision of /h/ ★★★★★
 In fluent speech, if the word ‘he’ comes at the beginning of a sentence or clause, then the ‘h’ sound /h/ is pronounced. But if it comes in the middle of a sentence or clause and after a consonant, then the ‘h’ sound is not usually pronounced. So **/hi****ː****/** becomes **/i****ː****/** and ‘he looks like **he**’s had an accident’ becomes ‘he looks like ‘**e**’s had an accident’. Not this change also happens with certain other words beginning with the ‘h’ sound, like **him**, **his** or **her**. Here are some more examples.
 
 - I really like **his** cooking.  
