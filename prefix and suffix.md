@@ -11,6 +11,22 @@ _suff._
 **3.** Means,  instrument,  or  agent  of  an  action  or  process:  adornment.
 
 
+## -ation
+
+_suff._
+
+**1.**
+
+**a.** Action  or  process:  strangulation.
+
+**b.** The  result  of  an  action  or  process:  acculturation.
+
+**2.** State,  condition,  or  quality  of:  eburnation.
+
+-----
+sensation
+sentiment
+----
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MDI3NThdfQ==
+eyJoaXN0b3J5IjpbMTg4ODAzNzc1XX0=
 -->
