@@ -23,10 +23,8 @@ _suff._
 
 **2.** State,  condition,  or  quality  of:  eburnation.
 
------
-sensation
-sentiment
-----
+> sensation 
+> sentiment
 
 ## -ia
 
@@ -52,7 +50,9 @@ _suff._
 
 **2.** One  relating  to,  belonging  to,  or  resembling:  academician.
 
-````
+> australia
+> australian
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MDcwOTI4N119
+eyJoaXN0b3J5IjpbLTExMDExMTk0MDhdfQ==
 -->
