@@ -27,6 +27,32 @@ _suff._
 sensation
 sentiment
 ----
+
+## -ia
+
+_suffix  forming  nouns_
+
+**1.** occurring  in  place  names:  Albania;  Columbia.
+
+**2.** (Pathology)  occurring  in  names  of  diseases  and  pathological  disorders:  pneumonia;  aphasia.
+
+**3.** occurring  in  words  denoting  condition  or  quality:  utopia.
+
+**4.** (Botany)  occurring  in  names  of  botanical  genera:  acacia;  poinsettia.
+
+**5.** (Zoology)  occurring  in  names  of  zoological  classes:  Reptilia.
+
+**6.** occurring  in  collective  nouns  borrowed  from  Latin:  marginalia;  memorabilia;  regalia.
+
+## -ian
+
+_suff._
+
+**1.** Of,  relating  to,  or  resembling:  Bostonian.
+
+**2.** One  relating  to,  belonging  to,  or  resembling:  academician.
+
+````
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODAzNzc1XX0=
+eyJoaXN0b3J5IjpbLTI3MDcwOTI4N119
 -->
