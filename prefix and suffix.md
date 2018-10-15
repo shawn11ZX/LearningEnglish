@@ -66,7 +66,18 @@ _suffix  forming  nouns_
 
 > delirium? 
 
+
+## in- il- im- ir-
+
+_prefix_
+
+Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  before  b,  m,  and  p  to  im-.
+
+**1.** in;  into;  towards;  within;  on:  infiltrate;  immigrate.
+
+**2.** having  an  intensive  or  causative  function:  inflame;  imperil.
+**3.** not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ
-==
+eyJoaXN0b3J5IjpbODYwMTU0ODA1LC0yMDM3MzAzNzgzLC0xMT
+AxMTE5NDA4XX0=
 -->
