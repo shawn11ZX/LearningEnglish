@@ -53,6 +53,20 @@ _suff._
 > australia
 > australian
 
+
+## -ium  or -um
+
+_suffix  forming  nouns_
+
+**1.** (Chemistry)  indicating  a  metallic  element:  platinum;  barium.
+
+**2.** (Chemistry)  (in  chemistry)  indicating  groups  forming  positive  ions:  ammonium  chloride;  hydroxonium  ion.
+
+**3.** (Biology)  indicating  a  biological  structure:  syncytium.
+
+> delirium? 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ
+==
 -->
