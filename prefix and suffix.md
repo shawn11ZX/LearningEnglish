@@ -29,6 +29,14 @@ _suff._
 > sensation 
 > sentiment
 
+### -ion
+
+_suffix  forming  nouns_
+
+- action or process: union; communication; creation
+- result of an action or process: indention
+
+
 ### -ia
 
 _nouns_
@@ -71,12 +79,9 @@ _suffix  forming  nouns_
 
 - office:  collegium; consortium; magisterium
 
-### -ion
 
-_suffix  forming  nouns_
 
-- action or process: union; communication; creation
-- result of an action or process: indention
+
 
 ## Suffix 
 
@@ -90,7 +95,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU5NTY1NDE0LC0xMDc5MjQxOTUyLC02MT
-Y5MzMxODgsODYwMTU0ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5
-NDA4XX0=
+eyJoaXN0b3J5IjpbLTgwOTY5NTM5OCwtMTA3OTI0MTk1MiwtNj
+E2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4MywtMTEwMTEx
+OTQwOF19
 -->
