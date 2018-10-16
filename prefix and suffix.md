@@ -81,11 +81,10 @@ _prefix_
 
 Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  before  b,  m,  and  p  to  im-.
 
-- in;  into;  towards;  within;  on:  infiltrate;  immigrate.
-
-- having  an  intensive  or  causative  function:  inflame;  imperil.
-- not;  non-:  incredible; insincere; illegal; imperfect; irregular.
+- in;  into;  towards;  within;  on:  infiltrate;  immigrate. 
+- having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
+- not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MDA0NjQ1ODUsLTYxNjkzMzE4OCw4Nj
+eyJoaXN0b3J5IjpbLTEwNzkyNDE5NTIsLTYxNjkzMzE4OCw4Nj
 AxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
