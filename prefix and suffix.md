@@ -120,7 +120,7 @@ noun
 noun
 
 - multiples  of  ten:  twenty;  thirty.
-- state  orcondition:  ability;  certainty;  chastity;  unity.
+- state  or condition:  ability;  certainty;  chastity;  unity.
 
 ## Prefix
 
@@ -134,8 +134,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc2MzYyODU1LC0xMTkxMTA1NTkyLC0xMT
-MxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0
-MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4My
-wtMTEwMTExOTQwOF19
+eyJoaXN0b3J5IjpbMTQzNzUwNjU2MSwtMTE5MTEwNTU5MiwtMT
+EzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQxMDQzOTAsLTEwNzky
+NDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMzczMDM3OD
+MsLTExMDExMTk0MDhdfQ==
 -->
