@@ -45,7 +45,7 @@ _suffix  forming  nouns_
 
 ## -ian
 
-_suff._
+adjectives and nouns
 
 - Of,  relating  to,  or  resembling:  Bostonian.
 
@@ -87,6 +87,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil.
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMz
-czMDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbMTU5NzI1MDE4LC02MTY5MzMxODgsODYwMT
+U0ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
