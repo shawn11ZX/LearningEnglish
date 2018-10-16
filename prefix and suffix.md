@@ -109,6 +109,12 @@ noun
 - Act;  practice:  bribery.
 - Characteristics  or  qualities  of:  snobbery.
 
+### -ary
+- (_forming  adjectives_)  of;  related  to;  belonging  to:  cautionary;  rudimentary.
+- (_forming  nouns_)
+- a  person  connected  with  or  engaged  in:  missionary.
+- a  thing  relating  to;  a  place  for:  commentary;  aviary.
+
 ## Prefix
 
 ### in- il- im- ir-
@@ -121,8 +127,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzOTg3MTgyLC0xMTkxMTA1NTkyLC0xMT
-MxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0
-MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4My
-wtMTEwMTExOTQwOF19
+eyJoaXN0b3J5IjpbLTcwNDM0NjI2OCwtMTE5MTEwNTU5MiwtMT
+EzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQxMDQzOTAsLTEwNzky
+NDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMzczMDM3OD
+MsLTExMDExMTk0MDhdfQ==
 -->
