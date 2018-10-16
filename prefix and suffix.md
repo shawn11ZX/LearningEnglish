@@ -91,7 +91,7 @@ _suffix  forming  nouns_
 ### -y
 
 -  **同-ey**. an  **adjective**-forming  suffix  meaning  “characterized  by  or  inclined  to”  the  substance  or  action  of  the  word  or  stem  towhich  the  suffix  is  attached:  bloody;  cloudy;  sexy;  squeaky. 
-- **同-ie**. a  **noun**-forming  suffix,  added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nounsformed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  and  in  variousother  usu.  informal  coinages,  sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  This  suffix  also  forms  from　adjectives  nouns  that  denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_),  sometimesfocusing  on  a  restricted,  usu.  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_).  Compare  [-o](https://www.thefreedictionary.com/O),  [-sy](https://www.thefreedictionary.com/sy-).
+- **同-ie**. a  **noun**-forming  suffix,  added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nouns formed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  and  in  various other  usu.  informal  coinages,  sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  This  suffix  also  forms  from　adjectives  nouns  that  denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_),  sometimesfocusing  on  a  restricted,  usu.  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_).  Compare  [-o](https://www.thefreedictionary.com/O),  [-sy](https://www.thefreedictionary.com/sy-).
 
 - a  suffix  of  various  origins  used  in  the  formation  of  **action  nouns**  from  verbs  (_inquiry_),  and  also  found  in  other  abstractnouns  (_infamy_).
 
@@ -107,7 +107,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NzQ0ODYwNCwtODQ0MTA0MzkwLC0xMD
-c5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC0yMDM3MzAz
-NzgzLC0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbLTU1Njk1NjYzMCwtMzc3NDQ4NjA0LC04ND
+QxMDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4
+MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
