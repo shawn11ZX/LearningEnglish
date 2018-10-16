@@ -56,6 +56,7 @@ _suff._
 
 ## -ium  or -um
 
+
 _suffix  forming  nouns_
 
 **1.** (Chemistry)  indicating  a  metallic  element:  platinum;  barium.
@@ -78,6 +79,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 **2.** having  an  intensive  or  causative  function:  inflame;  imperil.
 **3.** not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODYwMTU0ODA1LC0yMDM3MzAzNzgzLC0xMT
-AxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbLTE0OTk3ODU3ODUsODYwMTU0ODA1LC0yMD
+M3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
