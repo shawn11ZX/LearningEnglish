@@ -79,7 +79,13 @@ _suffix  forming  nouns_
 
 - office:  collegium; consortium; magisterium
 
+### -ly
 
+- a  suffix  forming  adverbs  from  **adjectives**:  gladly;  gradually;  secondly.
+
+- a  suffix  meaning  “every,”  attached  to  nouns  denoting  units  of  time:  hourly;  daily.
+
+- an  adjective  suffix  meaning  “-like”:  saintly;  cowardly.
 
 
 
@@ -95,7 +101,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgwOTY5NTM5OCwtMTA3OTI0MTk1MiwtNj
-E2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4MywtMTEwMTEx
-OTQwOF19
+eyJoaXN0b3J5IjpbLTE1NjI1NTAyNzgsLTEwNzkyNDE5NTIsLT
+YxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDEx
+MTk0MDhdfQ==
 -->
