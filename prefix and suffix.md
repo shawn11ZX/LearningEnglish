@@ -99,20 +99,15 @@ _suffix  forming  nouns_
 	- sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  
 	- used  in  the  formation  of  **action  nouns**  from  verbs  (_inquiry_),  and  also  found  in  other  abstractnouns  (_infamy_).
 
-## -ery
+### -ery or  **-ry**
 
-or  **-ry**
-
-_suff._
+noun
 
 - A  place  for:  bakery.
 - A  collection  or  class:  finery.
-
-**3.** A  state  or  condition:  slavery.
-
-**4.** Act;  practice:  bribery.
-
-**5.** Characteristics  or  qualities  of:  snobbery.
+- A  state  or  condition:  slavery.
+- Act;  practice:  bribery.
+- Characteristics  or  qualities  of:  snobbery.
 
 ## Prefix
 
@@ -126,8 +121,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODkwNjYwNTQsLTExOTExMDU1OTIsLTExMz
-E2MjI1OTgsLTM3NzQ0ODYwNCwtODQ0MTA0MzkwLC0xMDc5MjQx
-OTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC0yMDM3MzAzNzgzLC
-0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbMTAzOTg3MTgyLC0xMTkxMTA1NTkyLC0xMT
+MxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0
+MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4My
+wtMTEwMTExOTQwOF19
 -->
