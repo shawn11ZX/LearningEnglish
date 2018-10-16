@@ -1,6 +1,7 @@
 
 Ref: https://www.thefreedictionary.com/
 
+
 ## -ment
 
 _suff._
@@ -16,7 +17,6 @@ _suff._
 
 _suff._
 
--
 
 - Action  or  process:  strangulation.
 
@@ -73,6 +73,7 @@ _suffix  forming  nouns_
 
 _suffix  forming  nouns_
 
+- action or condition: union, communication
 
 ## in- il- im- ir-
 
@@ -85,6 +86,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil.
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0OTczMjEwOCw4NjAxNTQ4MDUsLTIwMz
-czMDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE5Nzg4ODExODcsODYwMTU0ODA1LC0yMD
+M3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
