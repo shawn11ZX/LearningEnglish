@@ -1,7 +1,10 @@
 
+
 Ref: https://www.thefreedictionary.com/
 
-## -ment
+## Prefix
+
+### -ment
 
 _suff._
 
@@ -12,7 +15,7 @@ _suff._
 - Means,  instrument,  or  agent  of  an  action  or  process:  adornment.
 
 
-## -ation
+### -ation
 
 _suff._
 
@@ -26,7 +29,7 @@ _suff._
 > sensation 
 > sentiment
 
-## -ia
+### -ia
 
 _nouns_
 
@@ -42,7 +45,7 @@ _nouns_
 
 - occurring  in  collective  nouns  borrowed  from  Latin:  marginalia;  memorabilia;  regalia.
 
-## -ian
+### -ian
 
 _adjectives and nouns_
 
@@ -54,7 +57,7 @@ _adjectives and nouns_
 > australian
 
 
-## -ium  or -um
+### -ium  or -um
 
 _suffix  forming  nouns_
 
@@ -68,14 +71,16 @@ _suffix  forming  nouns_
 
 - office:  collegium; consortium; magisterium
 
-## -ion
+### -ion
 
 _suffix  forming  nouns_
 
 - action or process: union; communication; creation
 - result of an action or process: indention
 
-## in- il- im- ir-
+## Suffix 
+
+### in- il- im- ir-
 
 _prefix_
 
@@ -85,6 +90,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNzkyNDE5NTIsLTYxNjkzMzE4OCw4Nj
-AxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbMjU5NTY1NDE0LC0xMDc5MjQxOTUyLC02MT
+Y5MzMxODgsODYwMTU0ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5
+NDA4XX0=
 -->
