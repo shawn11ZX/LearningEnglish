@@ -59,11 +59,11 @@ _suff._
 
 _suffix  forming  nouns_
 
-**1.** (Chemistry)  indicating  a  metallic  element:  platinum;  calcium; sodium.
+**1.** (Chemistry)  indicating  a  metallic  element:  platinum;  calcium; sodium; titanium
 
 **2.** (Chemistry)  indicating  groups  forming  positive  ions:  ammonium  chloride;  hydroxonium  ion.
 
-**3.** (Biology)  indicating  a  biological  structure:  syncytium.
+**3.** (Biology)  indicating  a  biological  structure:  syncytium; mycelium; pollinium
 
 **4.** status:  delirium; tedium
 
@@ -83,6 +83,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 **2.** having  an  intensive  or  causative  function:  inflame;  imperil.
 **3.** not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NzQ1OTM3NzMsODYwMTU0ODA1LC0yMD
-M3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbMTI2OTY0NjUxOSw4NjAxNTQ4MDUsLTIwMz
+czMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
