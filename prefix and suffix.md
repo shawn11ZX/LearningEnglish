@@ -91,8 +91,9 @@ _suffix  forming  nouns_
 ### -y
 
 -  **同-ey**. an  **adjective**-forming  suffix  meaning  “characterized  by  or  inclined  to”  the  substance  or  action  of  the  word  or  stem  towhich  the  suffix  is  attached:  bloody;  cloudy;  sexy;  squeaky. 
-- **同-ie**. a  **noun**-forming  suffix,  added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nouns formed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  and  in  various other  usu.  informal  coinages,  sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  
-	- forms  from　adjectives  nouns  that  denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_),  sometimes focusing  on  a  restricted,  usu.  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_).  
+- **同-ie**. a  **noun**-forming  suffix,  
+	- added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nouns formed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  and  in  various other  usu.  informal  coinages,  sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  
+	- forms  from adjectives  nouns  that  denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_),  sometimes focusing  on  a  restricted,  usually  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_).  
 
 - a  suffix  of  various  origins  used  in  the  formation  of  **action  nouns**  from  verbs  (_inquiry_),  and  also  found  in  other  abstractnouns  (_infamy_).
 
@@ -108,7 +109,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Njc1MDc3NTcsLTM3NzQ0ODYwNCwtOD
+eyJoaXN0b3J5IjpbLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtOD
 Q0MTA0MzkwLC0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0
 ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
