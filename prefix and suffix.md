@@ -65,9 +65,9 @@ _suffix  forming  nouns_
 
 **3.** (Biology)  indicating  a  biological  structure:  syncytium.
 
-**4.** status:  delirium
+**4.** status:  delirium; tedium
 
-**5.** office:  consortium
+**5.** office:  collegium; consortium; magisterium
 
 > delirium? 
 
@@ -83,6 +83,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 **2.** having  an  intensive  or  causative  function:  inflame;  imperil.
 **3.** not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk1MjY5NTc0OCw4NjAxNTQ4MDUsLTIwMz
-czMDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbLTE1NzQ1OTM3NzMsODYwMTU0ODA1LC0yMD
+M3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
