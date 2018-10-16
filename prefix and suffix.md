@@ -90,10 +90,13 @@ _suffix  forming  nouns_
 
 ### -y
 
--  **同-ey**. an  **adjective**-forming  suffix  meaning  “characterized  by  or  inclined  to”  the  substance  or  action  of  the  word  or  stem  towhich  the  suffix  is  attached:  bloody;  cloudy;  sexy;  squeaky. 
+-  **同-ey**. **adjective**-forming  suffix 
+	- an  meaning  “characterized  by  or  inclined  to”  the  substance  or  action  of  the  word  or  stem  to which  the  suffix  is  attached:  bloody;  cloudy;  sexy;  squeaky. 
+	- denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_)
+	- focusing  on  a  restricted,  usually  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_)
 - **同-ie**. a  **noun**-forming  suffix,  
 	- added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nouns formed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  and  in  various other  usu.  informal  coinages,  sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  
-	- forms  from adjectives  nouns  that  denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_),  sometimes focusing  on  a  restricted,  usually  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_).  
+	- forms  from adjectives  nouns  that  sometimes .  
 
 - a  suffix  of  various  origins  used  in  the  formation  of  **action  nouns**  from  verbs  (_inquiry_),  and  also  found  in  other  abstractnouns  (_infamy_).
 
@@ -109,7 +112,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtOD
-Q0MTA0MzkwLC0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0
-ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbMTU5NDMzMDU3OSwtMTEzMTYyMjU5OCwtMz
+c3NDQ4NjA0LC04NDQxMDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkz
+MzE4OCw4NjAxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MD
+hdfQ==
 -->
