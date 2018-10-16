@@ -69,7 +69,8 @@ _suffix  forming  nouns_
 
 **5.** office:  collegium; consortium; magisterium
 
-> delirium? 
+## -ion
+
 
 
 ## in- il- im- ir-
@@ -83,6 +84,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 **2.** having  an  intensive  or  causative  function:  inflame;  imperil.
 **3.** not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2OTY0NjUxOSw4NjAxNTQ4MDUsLTIwMz
+eyJoaXN0b3J5IjpbMTYxNzkwNzMxNiw4NjAxNTQ4MDUsLTIwMz
 czMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
