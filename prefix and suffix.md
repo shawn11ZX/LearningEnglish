@@ -1,7 +1,6 @@
 
 Ref: https://www.thefreedictionary.com/
 
-
 ## -ment
 
 _suff._
@@ -29,7 +28,7 @@ _suff._
 
 ## -ia
 
-_suffix  forming  nouns_
+_nouns_
 
 - occurring  in  place  names:  Albania;  Columbia.
 
@@ -45,7 +44,7 @@ _suffix  forming  nouns_
 
 ## -ian
 
-adjectives and nouns
+_adjectives and nouns_
 
 - Of,  relating  to,  or  resembling:  Bostonian.
 
@@ -87,6 +86,6 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil.
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU5NzI1MDE4LC02MTY5MzMxODgsODYwMT
-U0ODA1LC0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbLTE0MDA0NjQ1ODUsLTYxNjkzMzE4OCw4Nj
+AxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
