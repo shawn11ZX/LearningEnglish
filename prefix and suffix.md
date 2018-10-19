@@ -4,6 +4,34 @@ Ref: https://www.thefreedictionary.com/
 
 ## Suffix
 
+|Type| suffix |
+|--|--|
+| noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance -ancy |
+| adj only | -ey(-y形容词时的变种）, -ative |
+| noun and adj | -y, -ary, -ant, -ive |
+| noun and adj and verb | -ate
+
+### -ance -ancy
+
+_suffix  forming  nouns_
+- indicating  an  action,  state  or  condition,  or  quality:  hindrance;  tenancy;  resemblance
+
+### -ative
+ - a suffix used to form adjectives from verbs ending in **-ate** (regulative); on this model, used to form adjectives from other stems (normative).
+ 
+ ### -ate
+
+suffix
+- (forming adjectives) possessing; having the appearance or characteristics of: fortunate; palmate; Latinate.
+- (forming nouns) a chemical compound, esp a salt or ester of an acid: carbonate; stearate.
+- (forming nouns) the product of a process: condensate.
+- forming verbs from nouns and adjectives: hyphenate; rusticate.
+ 
+ ###
+  -ive
+ - (forming adjectives) indicating a tendency, inclination, character, or quality: divisive; prohibitive; festive; massive.
+- (forming nouns of adjectival origin): detective; expletive.
+
 ### -ment
 
 _suff._
@@ -92,9 +120,9 @@ _suffix  forming  nouns_
 
 -  **同-ey**. **adjective**-forming  suffix 
 	- an  meaning  “characterized  by  or  inclined  to”  the  substance  or  action  of  the  word  or  stem  to which  the  suffix  is  attached:  bloody;  cloudy;  sexy;  squeaky. 
-	- denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_)
-	- focusing  on  a  restricted,  usually  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_)
 - **同-ie**. a  **noun**-forming  suffix,  
+ 	- denote  exemplary  or  extreme  instances  of  the  quality  specified  (_baddie;  biggie_)
+	- focusing  on  a  restricted,  usually  unfavorable  sense  of  the  adjective  (_sharpie;  sickie;  whitey_)
 	- added  to  monosyllabic  bases,  occurring  in  endearing  or  familiar  names  or  common  nouns formed  from  personal  names,  other  nouns,  and  adjectives  (_Billy;  Susie;  birdie;  granny;  sweetie;  tummy_)  
 	- sometimes  pejorative  (_boonies;  goalie;  groupie;  Okie;  rookie_).  
 	- used  in  the  formation  of  **action  nouns**  from  verbs  (_inquiry_),  and  also  found  in  other  abstractnouns  (_infamy_).
@@ -112,9 +140,14 @@ noun
 ### -ary
 - _forming  adjectives_
 	- of;  related  to;  belonging  to:  cautionary;  rudimentary.
-- (_forming  nouns_)
-- a  person  connected  with  or  engaged  in:  missionary.
-- a  thing  relating  to;  a  place  for:  commentary;  aviary.
+- _forming  nouns_
+	- a  person  connected  with  or  engaged  in:  missionary; military
+	- a  thing  relating  to;  
+	- a  place  for:  commentary;  aviary; granary
+
+### -ant
+ - adjectives: causing or performing an action or existing in a certain condition;  pleasant; militant;
+ - nouns: the agent that performs an action:  claimant; deodorant; protestant; servant;  militant;
 
 ### -ty
 
@@ -135,8 +168,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODM2ODQxLDE0Mzc1MDY1NjEsLTExOT
-ExMDU1OTIsLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtODQ0MTA0
-MzkwLC0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC
-0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
+eyJoaXN0b3J5IjpbMTkwMTYzODg3MSwxNDM3NTA2NTYxLC0xMT
+kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
+NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
+wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
 -->
