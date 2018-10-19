@@ -14,9 +14,9 @@ Ref: https://www.thefreedictionary.com/
 
 ### -a
 
--  a **plural** ending of nouns borrowed from Greek and Latin: phenomena; criteria; data.
-- a **feminine** singular ending of nouns borrowed from Latin and Greek, also used in New Latin coinages to Latinize bases of any origin, and as a Latin substitute for the feminine ending -ē of Greek words: cinchona; pachysandra.
-- a suffix occurring in the names of oxides of the chemical element denoted by the stem: alumina; thoria.
+- a **plural** ending of nouns: phenomena; criteria; data.
+- a **feminine** singular ending of nouns : cinchona; pachysandra.
+- a suffix occurring in the names of **oxides** of the chemical element denoted by the stem: alumina; thoria.
 
 ### 
 -ize  -ise
@@ -188,9 +188,9 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjg5MDUyNDAxLDEyNTA3NDU4NTcsMTQzNz
-UwNjU2MSwtMTE5MTEwNTU5MiwtMTEzMTYyMjU5OCwtMzc3NDQ4
-NjA0LC04NDQxMDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkzMzE4OC
-w4NjAxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
-
+eyJoaXN0b3J5IjpbMTQzNzc2NzE3MSw2ODkwNTI0MDEsMTI1MD
+c0NTg1NywxNDM3NTA2NTYxLC0xMTkxMTA1NTkyLC0xMTMxNjIy
+NTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0MTk1Mi
+wtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4MywtMTEw
+MTExOTQwOF19
 -->
