@@ -11,7 +11,7 @@ Ref: https://www.thefreedictionary.com/
 | noun and adj | -y, -ary, -ant, -ive |
 | noun and adj and verb | -ate
 
-### -ance -ancy
+### -ance -ancy, -ence, -ency
 
 _suffix  forming  nouns_
 - indicating  an  action,  state  or  condition,  or  quality:  hindrance;  tenancy;  resemblance
@@ -168,8 +168,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwMTYzODg3MSwxNDM3NTA2NTYxLC0xMT
-kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
-NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
-wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
+eyJoaXN0b3J5IjpbLTExNzg3MTc2OTMsMTQzNzUwNjU2MSwtMT
+E5MTEwNTU5MiwtMTEzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQx
+MDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MD
+UsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
 -->
