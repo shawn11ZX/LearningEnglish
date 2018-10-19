@@ -9,7 +9,7 @@ Ref: https://www.thefreedictionary.com/
 | noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance/-ancy/-ence/-ency, -a |
 | adj only | -ey(-y形容词时的变种）, -ative |
 | verb only | -ize/ise |
-| noun and adj | -y, -ary, -ant, -ive |
+| noun and adj | -y, -ary, -ory -ant, -ive |
 | noun and adj and verb | -ate
 
 ### -a
@@ -164,6 +164,9 @@ noun
 	- a  thing  relating  to;  
 	- a  place  for:  commentary;  aviary; granary
 
+### ory
+only -tory and -sory
+contributory; promissory.
 ### -ant
  - adjectives: causing or performing an action or existing in a certain condition;  pleasant; militant;
  - nouns: the agent that performs an action:  claimant; deodorant; protestant; servant;  militant;
@@ -187,9 +190,9 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxODI2MTQ5NSw2ODkwNTI0MDEsMTI1MD
-c0NTg1NywxNDM3NTA2NTYxLC0xMTkxMTA1NTkyLC0xMTMxNjIy
-NTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0MTk1Mi
-wtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4MywtMTEw
-MTExOTQwOF19
+eyJoaXN0b3J5IjpbLTQyNjE0Mzg1NSwtODE4MjYxNDk1LDY4OT
+A1MjQwMSwxMjUwNzQ1ODU3LDE0Mzc1MDY1NjEsLTExOTExMDU1
+OTIsLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtODQ0MTA0MzkwLC
+0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC0yMDM3
+MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
