@@ -166,7 +166,6 @@ noun
 
 ### ory
 only -tory and -sory
-- contributory; promissory.
 - adj: excretory; sensory; statutory.
 - **nouns** denoting **places or receptacles**, : crematory.
 ### -ant
@@ -192,9 +191,9 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI4NTYxNzg3LC04MTgyNjE0OTUsNjg5MD
-UyNDAxLDEyNTA3NDU4NTcsMTQzNzUwNjU2MSwtMTE5MTEwNTU5
-MiwtMTEzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQxMDQzOTAsLT
-EwNzkyNDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMzcz
-MDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbLTkxMDAxMjc2OCwtODE4MjYxNDk1LDY4OT
+A1MjQwMSwxMjUwNzQ1ODU3LDE0Mzc1MDY1NjEsLTExOTExMDU1
+OTIsLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtODQ0MTA0MzkwLC
+0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC0yMDM3
+MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
