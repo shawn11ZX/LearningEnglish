@@ -13,15 +13,14 @@ Ref: https://www.thefreedictionary.com/
 | noun and adj and verb | -ate
 
 ### -a
-
+_nouns_
 - a **plural** ending of nouns: phenomena; criteria; data.
 - a **feminine** singular ending of nouns : cinchona; pachysandra.
 - a suffix occurring in the names of **oxides** of the chemical element denoted by the stem: alumina; thoria.
 
-### 
--ize  -ise
+### -ize  -ise
 
-_suffix  forming  verbs_
+_verbs_
 
 - to  cause  to  become,  resemble,  or  agree  with:  legalize.
 
@@ -188,7 +187,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzc2NzE3MSw2ODkwNTI0MDEsMTI1MD
+eyJoaXN0b3J5IjpbLTgxODI2MTQ5NSw2ODkwNTI0MDEsMTI1MD
 c0NTg1NywxNDM3NTA2NTYxLC0xMTkxMTA1NTkyLC0xMTMxNjIy
 NTk4LC0zNzc0NDg2MDQsLTg0NDEwNDM5MCwtMTA3OTI0MTk1Mi
 wtNjE2OTMzMTg4LDg2MDE1NDgwNSwtMjAzNzMwMzc4MywtMTEw
