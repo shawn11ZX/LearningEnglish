@@ -8,7 +8,7 @@ Ref: https://www.thefreedictionary.com/
 |--|--|
 | noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance/-ancy/-ence/-ency |
 | adj only | -ey(-y形容词时的变种）, -ative |
-| verb only | -ize/ise
+| verb only | -ize/ise |
 | noun and adj | -y, -ary, -ant, -ive |
 | noun and adj and verb | -ate
 
@@ -181,7 +181,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAxNzgwODk4OSwxNDM3NTA2NTYxLC0xMT
+eyJoaXN0b3J5IjpbMTI1MDc0NTg1NywxNDM3NTA2NTYxLC0xMT
 kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
 NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
 wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
