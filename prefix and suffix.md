@@ -6,15 +6,28 @@ Ref: https://www.thefreedictionary.com/
 
 |Type| suffix |
 |--|--|
-| noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance -ancy |
+| noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance/-ancy/-ence/-ency |
 | adj only | -ey(-y形容词时的变种）, -ative |
+| verb only | -ize/ise
 | noun and adj | -y, -ary, -ant, -ive |
 | noun and adj and verb | -ate
+
+### -ize  -ise
+
+_suffix  forming  verbs_
+
+**1.** to  cause  to  become,  resemble,  or  agree  with:  legalize.
+
+**2.** to  become;  change  into:  crystallize.
+
+**3.** to  affect  in  a  specified  way;  subject  to:  hypnotize.
+
+**4.** to  act  according  to  some  practice,  principle,  policy,  etc:  economize.
 
 ### -ance -ancy, -ence, -ency
 
 _suffix  forming  nouns_
-- indicating  an  action,  state  or  condition,  or  quality:  hindrance;  tenancy;  resemblance
+- indicating  an  action,  state  or  condition,  or  quality:  hindrance;  tenancy;  resemblance, benevolence; residence; patience.
 
 ### -ative
  - a suffix used to form adjectives from verbs ending in **-ate** (regulative); on this model, used to form adjectives from other stems (normative).
@@ -168,8 +181,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzg3MTc2OTMsMTQzNzUwNjU2MSwtMT
-E5MTEwNTU5MiwtMTEzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQx
-MDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MD
-UsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbMTE0MDA4NTEyOSwxNDM3NTA2NTYxLC0xMT
+kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
+NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
+wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
 -->
