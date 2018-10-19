@@ -110,7 +110,8 @@ noun
 - Characteristics  or  qualities  of:  snobbery.
 
 ### -ary
-- (_forming  adjectives_)  of;  related  to;  belonging  to:  cautionary;  rudimentary.
+- _forming  adjectives_
+	- of;  related  to;  belonging  to:  cautionary;  rudimentary.
 - (_forming  nouns_)
 - a  person  connected  with  or  engaged  in:  missionary.
 - a  thing  relating  to;  a  place  for:  commentary;  aviary.
@@ -134,8 +135,8 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQzNzUwNjU2MSwtMTE5MTEwNTU5MiwtMT
-EzMTYyMjU5OCwtMzc3NDQ4NjA0LC04NDQxMDQzOTAsLTEwNzky
-NDE5NTIsLTYxNjkzMzE4OCw4NjAxNTQ4MDUsLTIwMzczMDM3OD
-MsLTExMDExMTk0MDhdfQ==
+eyJoaXN0b3J5IjpbMTcxODM2ODQxLDE0Mzc1MDY1NjEsLTExOT
+ExMDU1OTIsLTExMzE2MjI1OTgsLTM3NzQ0ODYwNCwtODQ0MTA0
+MzkwLC0xMDc5MjQxOTUyLC02MTY5MzMxODgsODYwMTU0ODA1LC
+0yMDM3MzAzNzgzLC0xMTAxMTE5NDA4XX0=
 -->
