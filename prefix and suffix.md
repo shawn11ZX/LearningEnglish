@@ -6,13 +6,20 @@ Ref: https://www.thefreedictionary.com/
 
 |Type| suffix |
 |--|--|
-| noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance/-ancy/-ence/-ency |
+| noun only | -ment, -ation, -ion,-ia, -ium/-um, -ery/-ry, -ty, -ie(-y名词时的变种), -ing, -ance/-ancy/-ence/-ency, -a |
 | adj only | -ey(-y形容词时的变种）, -ative |
 | verb only | -ize/ise |
 | noun and adj | -y, -ary, -ant, -ive |
 | noun and adj and verb | -ate
 
-### -ize  -ise
+### -a
+
+-  a **plural** ending of nouns borrowed from Greek and Latin: phenomena; criteria; data.
+- a **feminine** singular ending of nouns borrowed from Latin and Greek, also used in New Latin coinages to Latinize bases of any origin, and as a Latin substitute for the feminine ending -ē of Greek words: cinchona; pachysandra.
+- a suffix occurring in the names of oxides of the chemical element denoted by the stem: alumina; thoria.
+
+### 
+-ize  -ise
 
 _suffix  forming  verbs_
 
@@ -181,8 +188,9 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI1MDc0NTg1NywxNDM3NTA2NTYxLC0xMT
-kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
-NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
-wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
+eyJoaXN0b3J5IjpbNjg5MDUyNDAxLDEyNTA3NDU4NTcsMTQzNz
+UwNjU2MSwtMTE5MTEwNTU5MiwtMTEzMTYyMjU5OCwtMzc3NDQ4
+NjA0LC04NDQxMDQzOTAsLTEwNzkyNDE5NTIsLTYxNjkzMzE4OC
+w4NjAxNTQ4MDUsLTIwMzczMDM3ODMsLTExMDExMTk0MDhdfQ==
+
 -->
