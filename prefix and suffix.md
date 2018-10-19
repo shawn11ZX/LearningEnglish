@@ -16,13 +16,13 @@ Ref: https://www.thefreedictionary.com/
 
 _suffix  forming  verbs_
 
-**1.** to  cause  to  become,  resemble,  or  agree  with:  legalize.
+- to  cause  to  become,  resemble,  or  agree  with:  legalize.
 
-**2.** to  become;  change  into:  crystallize.
+-  to  become;  change  into:  crystallize.
 
-**3.** to  affect  in  a  specified  way;  subject  to:  hypnotize.
+-  to  affect  in  a  specified  way;  subject  to:  hypnotize.
 
-**4.** to  act  according  to  some  practice,  principle,  policy,  etc:  economize.
+-  to  act  according  to  some  practice,  principle,  policy,  etc:  economize.
 
 ### -ance -ancy, -ence, -ency
 
@@ -181,7 +181,7 @@ Before  l,  in-  is  usually  assimilated  to  il-;  before  r  to  ir-;  and  b
 - having  an  intensive  or  causative  function:  inflame;  imperil. 类似于em-, en-
 - not;  non-:  incredible; insincere; illegal; imperfect; irregular. 类似于un-
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MDA4NTEyOSwxNDM3NTA2NTYxLC0xMT
+eyJoaXN0b3J5IjpbMTAxNzgwODk4OSwxNDM3NTA2NTYxLC0xMT
 kxMTA1NTkyLC0xMTMxNjIyNTk4LC0zNzc0NDg2MDQsLTg0NDEw
 NDM5MCwtMTA3OTI0MTk1MiwtNjE2OTMzMTg4LDg2MDE1NDgwNS
 wtMjAzNzMwMzc4MywtMTEwMTExOTQwOF19
