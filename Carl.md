@@ -12,7 +12,7 @@ Vowels and Cononants
 
 The sound of the Long/Hard Vowels is the same as the name of the Vowels. Long/Hard Vowel Sounds are Diphthongs. Diphthong is two or more sounds becoming one sound
 
-Diphthong always goes up in tone.
+To practice, please diphthong always goes up in tone.
 - A = A-E
 - E = E -E
 - I = I-E
@@ -75,5 +75,5 @@ augh = taught, caught
 a = father, watch
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA4Mzc4NzQyXX0=
+eyJoaXN0b3J5IjpbLTQ5NjUxNjU2LDgwODM3ODc0Ml19
 -->
