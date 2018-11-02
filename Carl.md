@@ -57,33 +57,23 @@ Generally when Y is in the middle or at the end of a word it has a vowel sound
 
 Sometimes Y is a silent Vowel
 
-Next Session start with Silent Vowels
+### Silent Vowels
 
 make
-
 late
-
 fine
-
 note
-
 author
 
 
 Short o = on, not
-
 au = audio, author, auto
-
 aw = law, saw, paw
-
 al = walk, talk,
-
 ough = bought, thought
-
 augh = taught, caught
-
 a = father, watch
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MjI3ODAwMl19
+eyJoaXN0b3J5IjpbODA4Mzc4NzQyXX0=
 -->
