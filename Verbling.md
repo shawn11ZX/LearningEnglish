@@ -38,9 +38,11 @@ There are lots of words in this book that I don't know.
 impove vocabulary
 Learn new words
 
-我通过背单词增加cihl
+我通过背单词增加词汇量
+I increase the vocabulary by memorizing word lists 
+I increase the vocabulary by memorizing flashcards
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk1Mzg5NzU5LC0xNzc1MzI4ODI1LC0yMT
-MzMDMxMzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC05MTAzMzQ1
-MjddfQ==
+eyJoaXN0b3J5IjpbMTY5MjM4MzAxOCwtMTc3NTMyODgyNSwtMj
+EzMzAzMTMxNyw1ODQ4MDgyNjEsLTgwMzQyOTYxMCwtOTEwMzM0
+NTI3XX0=
 -->
