@@ -18,8 +18,8 @@ I have the impression that
 impove my spoken english
 
 在平时说话时少犯错误
-make less mistakes 
+make less mistakes while speaking
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc3ODg2NTk0MCwtODAzNDI5NjEwLC05MT
+eyJoaXN0b3J5IjpbLTQzMTE3MjU4NywtODAzNDI5NjEwLC05MT
 AzMzQ1MjddfQ==
 -->
