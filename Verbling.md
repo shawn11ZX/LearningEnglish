@@ -35,10 +35,12 @@ I don't know many words in this book.
 There are lots of words in this book that I don't know.
 
 提高词汇量
-Enhance vocabulary
+impove vocabulary
 Learn new words
+
+我通过背单词增加cihl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczODk5NTU2MywtMTc3NTMyODgyNSwtMj
-EzMzAzMTMxNyw1ODQ4MDgyNjEsLTgwMzQyOTYxMCwtOTEwMzM0
-NTI3XX0=
+eyJoaXN0b3J5IjpbODk1Mzg5NzU5LC0xNzc1MzI4ODI1LC0yMT
+MzMDMxMzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC05MTAzMzQ1
+MjddfQ==
 -->
