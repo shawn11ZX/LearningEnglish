@@ -19,7 +19,14 @@ impove my spoken english
 
 在平时说话时少犯错误
 make less mistakes while speaking
+
+能听懂别人的话
+can understand what others say
+
+能更流利 
+can speak more fluently
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQzMTE3MjU4NywtODAzNDI5NjEwLC05MT
-AzMzQ1MjddfQ==
+eyJoaXN0b3J5IjpbNTg0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMD
+MzNDUyN119
 -->
