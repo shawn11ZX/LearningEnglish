@@ -30,8 +30,15 @@ can speak more fluently
 I'm planing to immigrade to australia
 https://www.vocabulary.com/articles/chooseyourwords/emigrate-immigrate-migrate/
 
+这本书很多单词我不认识
+I don't know many words in this book.
+There are lots of words in this book that I don't know.
 
+提高词汇量
+Enhance vocabulary
+Learn new words
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzUzMjg4MjUsLTIxMzMwMzEzMTcsNT
-g0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
+eyJoaXN0b3J5IjpbLTczODk5NTU2MywtMTc3NTMyODgyNSwtMj
+EzMzAzMTMxNyw1ODQ4MDgyNjEsLTgwMzQyOTYxMCwtOTEwMzM0
+NTI3XX0=
 -->
