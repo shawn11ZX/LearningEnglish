@@ -26,7 +26,9 @@ can understand what others say
 能更流利 
 can speak more fluently
 
+我准备移民
+I'm planing to immigrade to australia
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTg0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMD
-MzNDUyN119
+eyJoaXN0b3J5IjpbLTE2MjkzMDM3MTYsNTg0ODA4MjYxLC04MD
+M0Mjk2MTAsLTkxMDMzNDUyN119
 -->
