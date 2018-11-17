@@ -41,8 +41,10 @@ Learn new words
 我通过背单词增加词汇量
 I increase the vocabulary by memorizing word lists 
 I increase the vocabulary by memorizing words from flashcards
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzczNDEzOSwtMTc3NTMyODgyNSwtMj
-EzMzAzMTMxNyw1ODQ4MDgyNjEsLTgwMzQyOTYxMCwtOTEwMzM0
-NTI3XX0=
+eyJoaXN0b3J5IjpbNjE5OTM5MywtMTkzNzM0MTM5LC0xNzc1Mz
+I4ODI1LC0yMTMzMDMxMzE3LDU4NDgwODI2MSwtODAzNDI5NjEw
+LC05MTAzMzQ1MjddfQ==
 -->
