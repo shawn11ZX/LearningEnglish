@@ -42,11 +42,11 @@ Learn new words
 I increase the vocabulary by memorizing word lists 
 I increase the vocabulary by memorizing words from flashcards
 
-他康复的很好
-He has been recovering quit well
+他康复的很好（现在还没好）
+He is recovering quickly
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzA1NzkwMzIsNjE5OTM5MywtMTkzNz
-M0MTM5LC0xNzc1MzI4ODI1LC0yMTMzMDMxMzE3LDU4NDgwODI2
-MSwtODAzNDI5NjEwLC05MTAzMzQ1MjddfQ==
+eyJoaXN0b3J5IjpbMTEzNDAzNjgyOCw2MTk5MzkzLC0xOTM3Mz
+QxMzksLTE3NzUzMjg4MjUsLTIxMzMwMzEzMTcsNTg0ODA4MjYx
+LC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
 -->
