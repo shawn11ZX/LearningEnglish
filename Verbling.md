@@ -50,9 +50,10 @@ I believe he has been recovering quite well, since he can play around not aware 
 minor illness
 
 我倾向于忍着，自己康复
-I tend to endure and recover soly by myself.
+I tend to endure the illness and recover soley by myself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA3NDgxNDUxMywtMjA1Mzc0NzA1Niw2MT
-k5MzkzLC0xOTM3MzQxMzksLTE3NzUzMjg4MjUsLTIxMzMwMzEz
-MTcsNTg0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
+eyJoaXN0b3J5IjpbLTEyNjY2ODI3NDUsLTIwNTM3NDcwNTYsNj
+E5OTM5MywtMTkzNzM0MTM5LC0xNzc1MzI4ODI1LC0yMTMzMDMx
+MzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC05MTAzMzQ1MjddfQ
+==
 -->
