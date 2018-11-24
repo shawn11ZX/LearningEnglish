@@ -49,8 +49,10 @@ I believe he has been recovering quite well, since he can play around not aware 
 小病
 minor illness
 
+我倾向于忍着，自己康复
+I tend to endure and recover soly by myself.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzOTEwNzA4MCwtMjA1Mzc0NzA1Niw2MT
+eyJoaXN0b3J5IjpbMjA3NDgxNDUxMywtMjA1Mzc0NzA1Niw2MT
 k5MzkzLC0xOTM3MzQxMzksLTE3NzUzMjg4MjUsLTIxMzMwMzEz
 MTcsNTg0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
 -->
