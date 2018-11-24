@@ -44,10 +44,13 @@ I increase the vocabulary by memorizing words from flashcards
 
 他康复的很好（现在还没好）
 He is recovering quickly
-I believe he has been recovering quite well, since he can play around not aware that he had surgery before.
+I believe he has been recovering quite well, since he can play around not aware of his surgical wound.
+
+小病
+minor illness
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MTI5MTMwMCwtMjA1Mzc0NzA1Niw2MT
+eyJoaXN0b3J5IjpbMTUzOTEwNzA4MCwtMjA1Mzc0NzA1Niw2MT
 k5MzkzLC0xOTM3MzQxMzksLTE3NzUzMjg4MjUsLTIxMzMwMzEz
 MTcsNTg0ODA4MjYxLC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
 -->
