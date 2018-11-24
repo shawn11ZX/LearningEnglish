@@ -51,9 +51,13 @@ minor illness
 
 我倾向于忍着，自己康复
 I tend to endure the illness and recover soley by myself.
+
+black seed oil
+chamomile
+herbal
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjY2ODI3NDUsLTIwNTM3NDcwNTYsNj
-E5OTM5MywtMTkzNzM0MTM5LC0xNzc1MzI4ODI1LC0yMTMzMDMx
-MzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC05MTAzMzQ1MjddfQ
-==
+eyJoaXN0b3J5IjpbLTEzMTc4MzY0MzgsLTEyNjY2ODI3NDUsLT
+IwNTM3NDcwNTYsNjE5OTM5MywtMTkzNzM0MTM5LC0xNzc1MzI4
+ODI1LC0yMTMzMDMxMzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC
+05MTAzMzQ1MjddfQ==
 -->
