@@ -55,9 +55,11 @@ I tend to endure the illness and recover soley by myself.
 black seed oil
 chamomile
 herbal
+
+Coffee, especially Starbucks, is a symbol of white-collar workers.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTc4MzY0MzgsLTEyNjY2ODI3NDUsLT
-IwNTM3NDcwNTYsNjE5OTM5MywtMTkzNzM0MTM5LC0xNzc1MzI4
-ODI1LC0yMTMzMDMxMzE3LDU4NDgwODI2MSwtODAzNDI5NjEwLC
-05MTAzMzQ1MjddfQ==
+eyJoaXN0b3J5IjpbNjM4NzAzOTc3LC0xMzE3ODM2NDM4LC0xMj
+Y2NjgyNzQ1LC0yMDUzNzQ3MDU2LDYxOTkzOTMsLTE5MzczNDEz
+OSwtMTc3NTMyODgyNSwtMjEzMzAzMTMxNyw1ODQ4MDgyNjEsLT
+gwMzQyOTYxMCwtOTEwMzM0NTI3XX0=
 -->
