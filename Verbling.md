@@ -44,9 +44,10 @@ I increase the vocabulary by memorizing words from flashcards
 
 他康复的很好（现在还没好）
 He is recovering quickly
+I believe he has been recovering quite well, since he can play around without concisous of his surgeory anymore
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNDAzNjgyOCw2MTk5MzkzLC0xOTM3Mz
-QxMzksLTE3NzUzMjg4MjUsLTIxMzMwMzEzMTcsNTg0ODA4MjYx
-LC04MDM0Mjk2MTAsLTkxMDMzNDUyN119
+eyJoaXN0b3J5IjpbLTIwNTM3NDcwNTYsNjE5OTM5MywtMTkzNz
+M0MTM5LC0xNzc1MzI4ODI1LC0yMTMzMDMxMzE3LDU4NDgwODI2
+MSwtODAzNDI5NjEwLC05MTAzMzQ1MjddfQ==
 -->
