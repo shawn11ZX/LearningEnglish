@@ -57,9 +57,19 @@ chamomile
 herbal
 
 Coffee, especially Starbucks, is a symbol of white-collar workers.
+
+hang up
+
+few people
+
+ballad
+
+individuality
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjM4NzAzOTc3LC0xMzE3ODM2NDM4LC0xMj
-Y2NjgyNzQ1LC0yMDUzNzQ3MDU2LDYxOTkzOTMsLTE5MzczNDEz
-OSwtMTc3NTMyODgyNSwtMjEzMzAzMTMxNyw1ODQ4MDgyNjEsLT
-gwMzQyOTYxMCwtOTEwMzM0NTI3XX0=
+eyJoaXN0b3J5IjpbLTE0OTM1NzM3NjYsNjM4NzAzOTc3LC0xMz
+E3ODM2NDM4LC0xMjY2NjgyNzQ1LC0yMDUzNzQ3MDU2LDYxOTkz
+OTMsLTE5MzczNDEzOSwtMTc3NTMyODgyNSwtMjEzMzAzMTMxNy
+w1ODQ4MDgyNjEsLTgwMzQyOTYxMCwtOTEwMzM0NTI3XX0=
 -->
